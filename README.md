@@ -186,7 +186,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [django-xadmin](https://github.com/sshwsfc/xadmin) ` 🔥 4.5k ` ` 🌐 705 ` - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap. ` 📝 2 years ago `
 * [flask-admin](https://github.com/flask-admin/flask-admin) ` 🔥 4.5k ` ` 🌐 9.3k ` - Simple and extensible administrative interface framework for Flask ` 📝 17 days ago `
 * [django-jet](https://github.com/geex-arts/django-jet) ` 🔥 3k ` ` 🌐 2.1k ` - Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo ` 📝 2 years ago `
-* [django-grappelli](https://grappelliproject.com/) ` 🔥 2.9k ` ` 🌐 3.7k ` - A jazzy skin for the Django Admin-Interface (official repository). ` 📝 22 days ago `
+* [django-grappelli](https://grappelliproject.com/) ` 🔥 2.9k ` ` 🌐 3.7k ` - A jazzy skin for the Django Admin-Interface (official repository). ` 📝 23 days ago `
 * [django-suit](https://djangosuit.com/) ` 🔥 2k ` ` 🌐 2.5k ` - Modern theme for Django admin interface ` 📝 a year ago `
 * [wooey](https://github.com/wooey/wooey) ` 🔥 1.5k ` ` 🌐 24 ` - A Django app that creates automatic web UIs for Python scripts. ` 📝 4 months ago `
 * [jet-bridge](https://github.com/jet-admin/jet-bridge) ` 🔥 839 `  - Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application ` 📝 16 days ago `
@@ -314,7 +314,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * #### Code Linters
 
     * [pylint](https://www.pylint.org/) ` 🔥 3.1k ` ` 🌐 162k ` - It's not just a linter that annoys you! ` 📝 17 days ago`
-    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ` 🔥 1.3k ` ` 🌐 205 ` - The strictest and most opinionated python linter ever! ` 📝 3 days ago`
+    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ` 🔥 1.3k ` ` 🌐 205 ` - The strictest and most opinionated python linter ever! ` 📝 4 days ago`
     * [flake8](https://pypi.org/project/flake8/) ` 🔥 1k ` ` 🌐 131k ` - The official GitHub mirror of https://gitlab.com/pycqa/flake8 ` 📝 a month ago`
     * [pylama](https://github.com/klen/pylama) ` 🔥 749 ` ` 🌐 2k ` - Code audit tool for python. ` 📝 2 years ago`
     * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)   
@@ -403,7 +403,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 ## Concurrency and Parallelism
 
 * [uvloop](https://github.com/MagicStack/uvloop) ` 🔥 7.3k ` ` 🌐 16.6k ` - Ultra fast asyncio event loop. ` 📝 10 days ago `
-* [gevent](http://www.gevent.org/) ` 🔥 5.4k ` ` 🌐 53k ` - Coroutine-based concurrency library for Python ` 📝 6 days ago `
+* [gevent](http://www.gevent.org/) ` 🔥 5.4k ` ` 🌐 53k ` - Coroutine-based concurrency library for Python ` 📝 7 days ago `
 * [eventlet](http://eventlet.net/) ` 🔥 983 ` ` 🌐 14.6k ` - Concurrent networking library for Python ` 📝 3 days ago `
 * [scoop](https://github.com/soravux/scoop) ` 🔥 484 `  - SCOOP (Scalable COncurrent Operations in Python) 
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)   
@@ -486,7 +486,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * #### NoSQL Databases
 
     * [redis-py](https://github.com/andymccurdy/redis-py) ` 🔥 9k `  - Redis Python Client ` 📝 24 days ago`
-    * [kafka-python](https://github.com/dpkp/kafka-python) ` 🔥 4.1k ` ` 🌐 5.2k ` - Python client for Apache Kafka ` 📝 14 days ago`
+    * [kafka-python](https://github.com/dpkp/kafka-python) ` 🔥 4.1k ` ` 🌐 5.2k ` - Python client for Apache Kafka ` 📝 15 days ago`
     * [pymongo](https://github.com/mongodb/mongo-python-driver) ` 🔥 3.2k ` ` 🌐 78.8k ` - PyMongo - the Python driver for MongoDB ` 📝 8 days ago`
     * [cassandra-driver](https://github.com/datastax/python-driver) ` 🔥 1.2k ` ` 🌐 2.2k ` - DataStax Python Driver for Apache Cassandra ` 📝 a month ago`
     * [py2neo](https://py2neo.org/) ` 🔥 952 `  - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line. ` 📝 5 days ago`
@@ -633,7 +633,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [saleor](http://getsaleor.com/) ` 🔥 9.8k `  - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS. ` 📝 6 days ago `
 * [django-oscar](http://oscarcommerce.com/) ` 🔥 4.7k ` ` 🌐 632 ` - Domain-driven e-commerce for Django ` 📝 6 days ago `
 * [django-shop](https://github.com/awesto/django-shop) ` 🔥 2.4k ` ` 🌐 144 ` - A Django based shop system ` 📝 10 days ago `
-* [shoop](https://www.shuup.com/en/) ` 🔥 1.4k ` ` 🌐 52 ` - E-Commerce Platform ` 📝 5 days ago `
+* [shoop](https://www.shuup.com/en/) ` 🔥 1.4k ` ` 🌐 52 ` - E-Commerce Platform ` 📝 6 days ago `
 * [merchant](https://github.com/agiliq/merchant) ` 🔥 959 ` ` 🌐 19 ` - A Django app to accept payments from various payment processors via Pluggable backends. ` 📝 5 years ago `
 * [Cartridge](https://github.com/stephenmcd/cartridge) ` 🔥 621 ` ` 🌐 160 ` - Ecommerce for Mezzanine ` 📝 a year ago `
 * [forex-python](https://github.com/MicroPyramid/forex-python) ` 🔥 352 ` ` 🌐 535 ` - Foreign exchange rates, Bitcoin price index and currency conversion using ratesapi.io ` 📝 a year ago `
@@ -720,7 +720,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) ` 🔥 4.1k ` ` 🌐 50.7k ` - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. ` 📝 21 days ago `
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3) ` 🔥 2.2k `  - Bootstrap 3 integration with Django. ` 📝 2 months ago `
-* [WTForms](https://github.com/wtforms/wtforms) ` 🔥 1.2k ` ` 🌐 79k ` - A flexible forms validation and rendering library for Python. ` 📝 23 days ago `
+* [WTForms](https://github.com/wtforms/wtforms) ` 🔥 1.2k ` ` 🌐 79k ` - A flexible forms validation and rendering library for Python. ` 📝 24 days ago `
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) ` 🔥 845 `  - Bootstrap 4 integration with Django. ` 📝 a month ago `
 * [Deform](https://github.com/Pylons/deform) ` 🔥 350 `  - A Python HTML form library. ` 📝 9 days ago `
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) ` 🔥 197 `  - A platform independent django form serializer 
@@ -798,7 +798,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## HTTP Clients
 
-* [requests](https://github.com/psf/requests) ` 🔥 44.1k `  - A simple, yet elegant HTTP library. ` 📝 7 days ago `
+* [requests](https://github.com/psf/requests) ` 🔥 44.1k `  - A simple, yet elegant HTTP library. ` 📝 8 days ago `
 * [httpx](https://github.com/encode/httpx) ` 🔥 6.1k ` ` 🌐 3.1k ` - A next generation HTTP client for Python. ` 📝 4 days ago `
 * [grequests](https://github.com/spyoungtech/grequests) ` 🔥 3.6k ` ` 🌐 2k ` - Requests + Gevent = <3 ` 📝 8 months ago `
 * [urllib3](https://github.com/shazow/urllib3) ` 🔥 2.5k ` ` 🌐 432k ` - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more. ` 📝 6 days ago `
@@ -824,7 +824,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) ` 🔥 2.3k `  - Python QR Code image generator ` 📝 9 months ago `
 * [wand](https://github.com/dahlia/wand) ` 🔥 1k ` ` 🌐 2.8k ` - The ctypes-based simple ImageMagick binding for Python ` 📝 9 days ago `
 * [Quads](https://github.com/fogleman/Quads) ` 🔥 964 `  - Computer art based on quadtrees. ` 📝 7 years ago `
-* [nude.py](https://github.com/hhatto/nude.py) ` 🔥 778 ` ` 🌐 44 ` - Nudity detection with Python ` 📝 23 days ago `
+* [nude.py](https://github.com/hhatto/nude.py) ` 🔥 778 ` ` 🌐 44 ` - Nudity detection with Python ` 📝 24 days ago `
 * [PyMatting](http://github.com/pymatting/pymatting) ` 🔥 756 `  - A Python library for alpha matting ` 📝 6 days ago `
 * [pyvips](https://github.com/libvips/pyvips) ` 🔥 280 ` ` 🌐 115 ` - python binding for libvips using cffi ` 📝 a month ago `
 * [python-barcode](https://github.com/WhyNotHugo/python-barcode) ` 🔥 222 ` ` 🌐 4k ` - Create standard barcodes with Python. No external dependencies. 100% Organic Python. ` 📝 2 months ago `
@@ -1033,7 +1033,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 
 * [Zipline](https://github.com/quantopian/zipline) ` 🔥 12.9k ` ` 🌐 633 ` - Zipline, a Pythonic Algorithmic Trading Library ` 📝 2 months ago `
 * [SymPy](https://github.com/sympy/sympy) ` 🔥 7.6k ` ` 🌐 26.2k ` - A computer algebra system written in pure Python ` 📝 3 days ago `
-* [statsmodels](https://github.com/statsmodels/statsmodels) ` 🔥 5.8k ` ` 🌐 32.9k ` - Statsmodels: statistical modeling and econometrics in Python ` 📝 9 days ago `
+* [statsmodels](https://github.com/statsmodels/statsmodels) ` 🔥 5.8k ` ` 🌐 32.9k ` - Statsmodels: statistical modeling and econometrics in Python ` 📝 10 days ago `
 * [PyMC](https://github.com/pymc-devs/pymc3) ` 🔥 5.4k ` ` 🌐 1.7k ` - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano ` 📝 3 days ago `
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) ` 🔥 1.1k ` ` 🌐 17 ` - Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) ` 📝 4 days ago `
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) ` 🔥 790 `  - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis ` 📝 5 days ago `
@@ -1075,7 +1075,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Shell
 
-* [xonsh](https://github.com/xonsh/xonsh/) ` 🔥 4.1k ` ` 🌐 126 ` - Python-powered, cross-platform, Unix-gazing shell ` 📝 13 days ago `
+* [xonsh](https://github.com/xonsh/xonsh/) ` 🔥 4.1k ` ` 🌐 126 ` - Python-powered, cross-platform, Unix-gazing shell ` 📝 14 days ago `
   
 ## Specific Formats Processing
 
@@ -1093,7 +1093,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [python-pptx](https://github.com/scanny/python-pptx) ` 🔥 1.2k `  - Create Open XML PowerPoint documents in Python ` 📝 2 years ago`
     * [xlwt](https://github.com/python-excel/xlwt) ` 🔥 969 ` ` 🌐 34.1k ` - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform. ` 📝 2 years ago`
     * [docxtpl](https://github.com/elapouya/python-docx-template) ` 🔥 883 ` ` 🌐 521 ` - Use a docx as a jinja2 template ` 📝 a month ago`
-    * [pyexcel](https://github.com/pyexcel/pyexcel) ` 🔥 874 ` ` 🌐 1.6k ` - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files ` 📝 9 days ago`
+    * [pyexcel](https://github.com/pyexcel/pyexcel) ` 🔥 874 ` ` 🌐 1.6k ` - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files ` 📝 10 days ago`
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)   
   
 * #### PDF
@@ -1278,7 +1278,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [sumy](https://github.com/miso-belica/sumy) ` 🔥 2.4k ` ` 🌐 597 ` - Module for automatic summarization of text documents and HTML pages. ` 📝 25 days ago `
 * [python-readability](https://github.com/buriy/python-readability) ` 🔥 1.9k `  - fast python port of arc90's readability tool, updated to match latest readability.js! ` 📝 a month ago `
 * [html2text](https://github.com/Alir3z4/html2text) ` 🔥 1k `  - Convert HTML to Markdown-formatted text. ` 📝 17 days ago `
-* [lassie](https://github.com/michaelhelmick/lassie) ` 🔥 516 ` ` 🌐 18 ` - Web Content Retrieval for Humans™ ` 📝 9 months ago `
+* [lassie](https://github.com/michaelhelmick/lassie) ` 🔥 516 ` ` 🌐 18 ` - Web Content Retrieval for Humans™ ` 📝 10 months ago `
 * [micawber](https://github.com/coleifer/micawber) ` 🔥 510 ` ` 🌐 468 ` - a small library for extracting rich content from urls ` 📝 a month ago `
   
 ## Web Crawling
