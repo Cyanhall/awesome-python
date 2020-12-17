@@ -197,7 +197,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * #### Algorithms
 
     * [TheAlgorithms](https://github.com/TheAlgorithms/Python) ` 🔥 94.6k `  - All Algorithms implemented in Python ` 📝 4 days ago`
-    * [algorithms](https://github.com/keon/algorithms) ` 🔥 18.4k ` ` 🌐 45 ` - Minimal examples of data structures and algorithms in Python ` 📝 12 days ago`
+    * [algorithms](https://github.com/keon/algorithms) ` 🔥 18.4k ` ` 🌐 45 ` - Minimal examples of data structures and algorithms in Python ` 📝 13 days ago`
     * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) ` 🔥 1.9k `  - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set ` 📝 a month ago`
     * [python-ds](https://github.com/prabhupant/python-ds) ` 🔥 1.2k `  - Repository for data structure and algorithms in Python for coding interviews ` 📝 2 months ago`
   
@@ -271,7 +271,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 
 * [attrs](https://github.com/python-attrs/attrs) ` 🔥 3.3k ` ` 🌐 180k ` - Python Classes Without Boilerplate ` 📝 3 days ago `
 * [Box](https://github.com/cdgriffith/Box) ` 🔥 1.6k ` ` 🌐 1k ` - Python dictionaries with advanced dot notation access ` 📝 2 months ago `
-* [bidict](https://github.com/jab/bidict) ` 🔥 685 ` ` 🌐 1.1k ` - The bidirectional mapping library for Python. ` 📝 18 days ago `
+* [bidict](https://github.com/jab/bidict) ` 🔥 685 ` ` 🌐 1.1k ` - The bidirectional mapping library for Python. ` 📝 19 days ago `
 * [DottedDict](https://github.com/carlosescri/DottedDict) ` 🔥 110 ` ` 🌐 27 ` - Python library that provides a method of accessing lists and dicts with a dotted path notation. ` 📝 5 years ago `
 * [dataclasses](https://docs.python.org/3/library/dataclasses.html)   
   
@@ -282,9 +282,9 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [mezzanine](https://github.com/stephenmcd/mezzanine) ` 🔥 4.2k `  - CMS framework for Django ` 📝 3 months ago `
 * [quokka](https://github.com/rochacbruno/quokka) ` 🔥 2.2k `  - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka` ` 📝 2 years ago `
 * [indico](https://github.com/indico/indico) ` 🔥 1.1k ` ` 🌐 43 ` - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born. ` 📝 5 days ago `
-* [feincms](https://github.com/feincms/feincms) ` 🔥 783 ` ` 🌐 199 ` - A Django-based CMS with a focus on extensibility and concise code ` 📝 7 days ago `
+* [feincms](https://github.com/feincms/feincms) ` 🔥 783 ` ` 🌐 199 ` - A Django-based CMS with a focus on extensibility and concise code ` 📝 8 days ago `
 * [Kotti](https://github.com/Kotti/Kotti) ` 🔥 354 ` ` 🌐 150 ` - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS. ` 📝 8 days ago `
-* [plone](https://plone.org/) ` 🔥 152 `  - The core of the Plone content management system ` 📝 10 days ago `
+* [plone](https://plone.org/) ` 🔥 152 `  - The core of the Plone content management system ` 📝 11 days ago `
   
 ## Caching
 
@@ -461,7 +461,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Database
 
-* [tinydb](https://github.com/msiemens/tinydb) ` 🔥 3.9k `  - TinyDB is a lightweight document oriented database optimized for your happiness :) ` 📝 11 days ago `
+* [tinydb](https://github.com/msiemens/tinydb) ` 🔥 3.9k `  - TinyDB is a lightweight document oriented database optimized for your happiness :) ` 📝 12 days ago `
 * [pickleDB](https://github.com/patx/pickledb) ` 🔥 522 ` ` 🌐 389 ` - pickleDB is an open source key-value store using Python's json module. ` 📝 a year ago `
 * [ZODB](https://github.com/zopefoundation/ZODB) ` 🔥 436 ` ` 🌐 518 ` - Python object-oriented database ` 📝 2 months ago `
   
@@ -530,7 +530,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 
     * [py-spy](https://github.com/benfred/py-spy) ` 🔥 6.3k ` ` 🌐 464 ` - Sampling profiler for Python programs ` 📝 a month ago`
     * [vprof](https://github.com/nvdv/vprof) ` 🔥 3.7k ` ` 🌐 61 ` - Visual profiler for Python ` 📝 a month ago`
-    * [line_profiler](https://github.com/rkern/line_profiler) ` 🔥 3.5k `  - (OLD REPO) Line-by-line profiling for Python - Current repo -> ` 📝 2 years ago`
+    * [line_profiler](https://github.com/rkern/line_profiler) ` 🔥 3.5k `  - (OLD REPO) Line-by-line profiling for Python - Current repo ->` ` 📝 2 years ago`
     * [profiling](https://github.com/what-studio/profiling) ` 🔥 3k ` ` 🌐 29 ` - Was an interactive continuous Python profiler. ` 📝 4 months ago`
     * [pyflame](https://github.com/uber/pyflame) ` 🔥 2.9k `  - Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. ` 📝 a year ago`
     * [memory_profiler](https://github.com/fabianp/memory_profiler) ` 🔥 57 `  - Monitor Memory usage of Python code ` 📝 2 years ago`
@@ -558,7 +558,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### Configuration Management
 
-    * [ansible](https://github.com/ansible/ansible) ` 🔥 46k ` ` 🌐 14.6k ` - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. ` 📝 5 days ago`
+    * [ansible](https://github.com/ansible/ansible) ` 🔥 46k ` ` 🌐 14.6k ` - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. ` 📝 6 days ago`
     * [saltstack](https://github.com/saltstack/salt) ` 🔥 11.4k `  - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ` 📝 4 days ago`
     * [OpenStack](https://www.openstack.org/) ` 🔥 3.8k `  - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. 
     * [pyinfra](https://github.com/Fizzadar/pyinfra) ` 🔥 1k ` ` 🌐 14 ` - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. ` 📝 8 days ago`
@@ -767,7 +767,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [Panda3D](https://www.panda3d.org/) ` 🔥 2.5k `  - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU ` 📝 4 days ago `
 * [RenPy](https://www.renpy.org/) ` 🔥 2.1k `  - The Ren'Py Visual Novel Engine ` 📝 3 days ago `
 * [Arcade](https://arcade.academy/index.html) ` 🔥 881 `  - Easy to use Python library for creating 2D arcade games. ` 📝 3 days ago `
-* [Cocos2d](http://cocos2d.org/) ` 🔥 563 ` ` 🌐 145 ` - graphic library for games and multimedia, for python language on PC-like hardware ` 📝 24 days ago `
+* [Cocos2d](http://cocos2d.org/) ` 🔥 563 ` ` 🌐 145 ` - graphic library for games and multimedia, for python language on PC-like hardware ` 📝 25 days ago `
 * [PyOpenGL](http://pyopengl.sourceforge.net/) ` 🔥 138 ` ` 🌐 6.2k ` - Repository for the PyOpenGL Project ` 📝 a year ago `
 * [Harfang3D](http://www.harfang3d.com)   
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre)   
@@ -862,8 +862,8 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Job Scheduler
 
-* [Airflow](https://airflow.apache.org/) ` 🔥 19.6k `  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows ` 📝 3 days ago `
-* [schedule](https://github.com/dbader/schedule) ` 🔥 8k ` ` 🌐 8.8k ` - Python job scheduling for humans. ` 📝 9 days ago `
+* [Airflow](https://airflow.apache.org/) ` 🔥 19.6k `  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows ` 📝 4 days ago `
+* [schedule](https://github.com/dbader/schedule) ` 🔥 8k ` ` 🌐 8.8k ` - Python job scheduling for humans. ` 📝 10 days ago `
 * [Prefect](https://github.com/PrefectHQ/prefect) ` 🔥 5.5k ` ` 🌐 194 ` - The easiest way to automate your data ` 📝 4 days ago `
 * [TaskFlow](https://docs.openstack.org/developer/taskflow/) ` 🔥 4.6k `  - A General-purpose Parallel and Heterogeneous Task Programming System ` 📝 3 days ago `
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/) ` 🔥 3.1k `  - Task scheduling library for Python 
@@ -955,7 +955,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Package Repositories
 
-* [warehouse](https://github.com/pypa/warehouse) ` 🔥 2.6k `  - The Python Package Index ` 📝 14 days ago `
+* [warehouse](https://github.com/pypa/warehouse) ` 🔥 2.6k `  - The Python Package Index ` 📝 15 days ago `
 * [devpi](https://github.com/devpi/devpi) ` 🔥 427 ` ` 🌐 120 ` - Python PyPi staging server and packaging, testing, release tool ` 📝 8 days ago `
 * [localshop](https://github.com/jazzband/localshop) ` 🔥 370 ` ` 🌐 2 ` - local pypi server (custom packages and auto-mirroring of pypi) ` 📝 5 months ago `
 * [bandersnatch](https://github.com/pypa/bandersnatch/) ` 🔥 205 `  - A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/ ` 📝 3 days ago `
@@ -1011,7 +1011,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### Framework agnostic
 
-    * [fastapi](https://github.com/tiangolo/fastapi) ` 🔥 24.1k `  - FastAPI framework, high performance, easy to learn, fast to code, ready for production ` 📝 3 days ago`
+    * [fastapi](https://github.com/tiangolo/fastapi) ` 🔥 24.1k `  - FastAPI framework, high performance, easy to learn, fast to code, ready for production ` 📝 4 days ago`
     * [sanic](https://github.com/huge-success/sanic) ` 🔥 14.3k ` ` 🌐 4.1k ` - Async Python 3.6+ web server/framework | Build fast. Run fast. ` 📝 7 days ago`
     * [falcon](https://github.com/falconry/falcon) ` 🔥 8.1k ` ` 🌐 4.7k ` - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale. ` 📝 3 days ago`
     * [hug](https://github.com/hugapi/hug) ` 🔥 6.4k ` ` 🌐 915 ` - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. ` 📝 4 months ago`
@@ -1164,7 +1164,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### GUI / Web Testing
 
-    * [locust](https://github.com/locustio/locust) ` 🔥 14.5k ` ` 🌐 789 ` - Scalable user load testing tool written in Python ` 📝 5 days ago`
+    * [locust](https://github.com/locustio/locust) ` 🔥 14.5k ` ` 🌐 789 ` - Scalable user load testing tool written in Python ` 📝 6 days ago`
     * [PyAutoGUI](https://github.com/asweigart/pyautogui) ` 🔥 4.6k ` ` 🌐 5k ` - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. ` 📝 2 months ago`
     * [splinter](https://github.com/cobrateam/splinter) ` 🔥 2.3k ` ` 🌐 4.1k ` - splinter - python test framework for web applications ` 📝 19 days ago`
     * [sixpack](https://github.com/seatgeek/sixpack) ` 🔥 1.7k ` ` 🌐 8 ` - Sixpack is a language-agnostic a/b-testing framework ` 📝 4 months ago`
@@ -1194,7 +1194,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### Fake Data
 
-    * [faker](https://github.com/joke2k/faker) ` 🔥 11.7k ` ` 🌐 20.9k ` - Faker is a Python package that generates fake data for you. ` 📝 7 days ago`
+    * [faker](https://github.com/joke2k/faker) ` 🔥 11.7k ` ` 🌐 20.9k ` - Faker is a Python package that generates fake data for you. ` 📝 8 days ago`
     * [mimesis](https://github.com/lk-geimfari/mimesis) ` 🔥 3.2k `  - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages. ` 📝 10 days ago`
     * [fake2db](https://github.com/emirozer/fake2db) ` 🔥 2k ` ` 🌐 12 ` - create custom test databases that are populated with fake data ` 📝 a year ago`
     * [radar](https://pypi.org/project/radar/)   
