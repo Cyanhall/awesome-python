@@ -8,339 +8,336 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 ---
   
   
-- [Admin Panels](#Admin-Panels)
-- [Algorithms and Design Patterns](#Algorithms-and-Design-Patterns)
-    - [Algorithms](#Algorithms)
-    - [Design Patterns](#Design-Patterns)
-- [ASGI Servers](#ASGI-Servers)
-- [Asynchronous Programming](#Asynchronous-Programming)
-- [Audio](#Audio)
-    - [Audio](#Audio)
-    - [Metadata](#Metadata)
-- [Authentication](#Authentication)
-    - [OAuth](#OAuth)
-    - [JWT](#JWT)
-- [Build Tools](#Build-Tools)
-- [Built-in Classes Enhancement](#Built-in-Classes-Enhancement)
-- [CMS](#CMS)
-- [Caching](#Caching)
-- [ChatOps Tools](#ChatOps-Tools)
-- [Code Analysis](#Code-Analysis)
-    - [Code Analysis](#Code-Analysis)
-    - [Code Linters](#Code-Linters)
-    - [Code Formatters](#Code-Formatters)
-    - [Static Type Checkers](#Static-Type-Checkers)
-    - [Static Type Annotations Generators](#Static-Type-Annotations-Generators)
-- [Command-line Interface Development](#Command-line-Interface-Development)
-    - [Command-line Application Development](#Command-line-Application-Development)
-    - [Terminal Rendering](#Terminal-Rendering)
-- [Command-line Tools](#Command-line-Tools)
-    - [Productivity Tools](#Productivity-Tools)
-    - [CLI Enhancements](#CLI-Enhancements)
-- [Compatibility](#Compatibility)
-- [Computer Vision](#Computer-Vision)
-- [Concurrency and Parallelism](#Concurrency-and-Parallelism)
-- [Configuration](#Configuration)
-- [Cryptography](#Cryptography)
-- [Data Analysis](#Data-Analysis)
-- [Data Validation](#Data-Validation)
-- [Data Visualization](#Data-Visualization)
-- [Database](#Database)
-- [Database Drivers](#Database-Drivers)
-    - [MySQL](#MySQL)
-    - [PostgreSQL](#PostgreSQL)
-    - [Other Relational Databases](#Other-Relational-Databases)
-    - [NoSQL Databases](#NoSQL-Databases)
-    - [Asynchronous Clients](#Asynchronous-Clients)
-- [Date and Time](#Date-and-Time)
-- [Debugging Tools](#Debugging-Tools)
-    - [pdb-like Debugger](#pdb-like-Debugger)
-    - [Tracing](#Tracing)
-    - [Profiler](#Profiler)
-    - [Others](#Others)
-- [Deep Learning](#Deep-Learning)
-- [DevOps Tools](#DevOps-Tools)
-    - [Configuration Management](#Configuration-Management)
-    - [SSH-style Deployment](#SSH-style-Deployment)
-    - [Process Management](#Process-Management)
-    - [Monitoring](#Monitoring)
-    - [Backup](#Backup)
-    - [Others](#Others)
-- [Distributed Computing](#Distributed-Computing)
-    - [Batch Processing](#Batch-Processing)
-    - [Stream Processing](#Stream-Processing)
-- [Distribution](#Distribution)
-- [Documentation](#Documentation)
-- [Downloader](#Downloader)
-- [E-commerce](#E-commerce)
-- [Editor Plugins and IDEs](#Editor-Plugins-and-IDEs)
-    - [Emacs](#Emacs)
-    - [Sublime Text](#Sublime-Text)
-    - [Vim](#Vim)
-    - [Visual Studio](#Visual-Studio)
-    - [Visual Studio Code](#Visual-Studio-Code)
-    - [IDE](#IDE)
-- [Email](#Email)
-    - [Mail Servers](#Mail-Servers)
-    - [Clients](#Clients)
-    - [Others](#Others)
-- [Enterprise Application Integrations](#Enterprise-Application-Integrations)
-- [Environment Management](#Environment-Management)
-- [Files](#Files)
-- [Foreign Function Interface](#Foreign-Function-Interface)
-- [Forms](#Forms)
-- [Functional Programming](#Functional-Programming)
-- [GUI Development](#GUI-Development)
-- [GraphQL](#GraphQL)
-- [Game Development](#Game-Development)
-- [Geolocation](#Geolocation)
-- [HTML Manipulation](#HTML-Manipulation)
-- [HTTP Clients](#HTTP-Clients)
-- [Hardware](#Hardware)
-- [Image Processing](#Image-Processing)
-- [Implementations](#Implementations)
-- [Interactive Interpreter](#Interactive-Interpreter)
-- [Internationalization](#Internationalization)
-- [Job Scheduler](#Job-Scheduler)
-- [Logging](#Logging)
-- [Machine Learning](#Machine-Learning)
-- [Microsoft Windows](#Microsoft-Windows)
-- [Miscellaneous](#Miscellaneous)
-- [Natural Language Processing](#Natural-Language-Processing)
-- [Network Virtualization](#Network-Virtualization)
-- [News Feed](#News-Feed)
-- [ORM](#ORM)
-    - [Relational Databases](#Relational-Databases)
-    - [NoSQL Databases](#NoSQL-Databases)
-- [Package Management](#Package-Management)
-- [Package Repositories](#Package-Repositories)
-- [Penetration Testing](#Penetration-Testing)
-- [Permissions](#Permissions)
-- [Processes](#Processes)
-- [Recommender Systems](#Recommender-Systems)
-- [Refactoring](#Refactoring)
-- [RESTful API](#RESTful-API)
-    - [Django](#Django)
-    - [Flask](#Flask)
-    - [Pyramid](#Pyramid)
-    - [Framework agnostic](#Framework-agnostic)
-- [Robotics](#Robotics)
-- [RPC Servers](#RPC-Servers)
-- [Science](#Science)
-- [Search](#Search)
-- [Serialization](#Serialization)
-- [Serverless Frameworks](#Serverless-Frameworks)
-- [Shell](#Shell)
-- [Specific Formats Processing](#Specific-Formats-Processing)
-    - [General](#General)
-    - [Office](#Office)
-    - [PDF](#PDF)
-    - [Markdown](#Markdown)
-    - [YAML](#YAML)
-    - [CSV](#CSV)
-    - [Archive](#Archive)
-- [Static Site Generator](#Static-Site-Generator)
-- [Tagging](#Tagging)
-- [Task Queues](#Task-Queues)
-- [Template Engine](#Template-Engine)
-- [Testing](#Testing)
-    - [Testing Frameworks](#Testing-Frameworks)
-    - [Test Runners](#Test-Runners)
-    - [GUI / Web Testing](#GUI-/-Web-Testing)
-    - [Mock](#Mock)
-    - [Object Factories](#Object-Factories)
-    - [Code Coverage](#Code-Coverage)
-    - [Fake Data](#Fake-Data)
-- [Text Processing](#Text-Processing)
-    - [General](#General)
-    - [Slugify](#Slugify)
-    - [Unique identifiers](#Unique-identifiers)
-    - [Parser](#Parser)
-- [Third-party APIs](#Third-party-APIs)
-- [URL Manipulation](#URL-Manipulation)
-- [Video](#Video)
-- [Web Asset Management](#Web-Asset-Management)
-- [Web Content Extracting](#Web-Content-Extracting)
-- [Web Crawling](#Web-Crawling)
-- [Web Frameworks](#Web-Frameworks)
-    - [Synchronous](#Synchronous)
-    - [Asynchronous](#Asynchronous)
-- [WebSocket](#WebSocket)
-- [WSGI Servers](#WSGI-Servers)
-- [Books](#Books)
-- [Websites](#Websites)
-    - [Tutorials](#Tutorials)
-    - [Libraries](#Libraries)
-    - [Others](#Others)
-- [Newsletters](#Newsletters)
-- [Podcasts](#Podcasts)
+- [Admin Panels](#Admin-Panels-)
+- [Algorithms and Design Patterns](#Algorithms-and-Design-Patterns-)
+    - [Algorithms](#Algorithms-)
+    - [Design Patterns](#Design-Patterns-)
+- [ASGI Servers](#ASGI-Servers-)
+- [Asynchronous Programming](#Asynchronous-Programming-)
+- [Audio](#Audio-)
+    - [Audio](#Audio-)
+    - [Metadata](#Metadata-)
+- [Authentication](#Authentication-)
+    - [OAuth](#OAuth-)
+    - [JWT](#JWT-)
+- [Build Tools](#Build-Tools-)
+- [Built-in Classes Enhancement](#Built-in-Classes-Enhancement-)
+- [CMS](#CMS-)
+- [Caching](#Caching-)
+- [ChatOps Tools](#ChatOps-Tools-)
+- [Code Analysis](#Code-Analysis-)
+    - [Code Analysis](#Code-Analysis-)
+    - [Code Linters](#Code-Linters-)
+    - [Code Formatters](#Code-Formatters-)
+    - [Static Type Checkers](#Static-Type-Checkers-)
+    - [Static Type Annotations Generators](#Static-Type-Annotations-Generators-)
+- [Command-line Interface Development](#Command-line-Interface-Development-)
+    - [Command-line Application Development](#Command-line-Application-Development-)
+    - [Terminal Rendering](#Terminal-Rendering-)
+- [Command-line Tools](#Command-line-Tools-)
+    - [Productivity Tools](#Productivity-Tools-)
+    - [CLI Enhancements](#CLI-Enhancements-)
+- [Compatibility](#Compatibility-)
+- [Computer Vision](#Computer-Vision-)
+- [Concurrency and Parallelism](#Concurrency-and-Parallelism-)
+- [Configuration](#Configuration-)
+- [Cryptography](#Cryptography-)
+- [Data Analysis](#Data-Analysis-)
+- [Data Validation](#Data-Validation-)
+- [Data Visualization](#Data-Visualization-)
+- [Database](#Database-)
+- [Database Drivers](#Database-Drivers-)
+    - [MySQL](#MySQL-)
+    - [PostgreSQL](#PostgreSQL-)
+    - [Other Relational Databases](#Other-Relational-Databases-)
+    - [NoSQL Databases](#NoSQL-Databases-)
+    - [Asynchronous Clients](#Asynchronous-Clients-)
+- [Date and Time](#Date-and-Time-)
+- [Debugging Tools](#Debugging-Tools-)
+    - [pdb-like Debugger](#pdb-like-Debugger-)
+    - [Tracing](#Tracing-)
+    - [Profiler](#Profiler-)
+    - [Others](#Others-)
+- [Deep Learning](#Deep-Learning-)
+- [DevOps Tools](#DevOps-Tools-)
+    - [Configuration Management](#Configuration-Management-)
+    - [SSH-style Deployment](#SSH-style-Deployment-)
+    - [Process Management](#Process-Management-)
+    - [Monitoring](#Monitoring-)
+    - [Backup](#Backup-)
+    - [Others](#Others-)
+- [Distributed Computing](#Distributed-Computing-)
+    - [Batch Processing](#Batch-Processing-)
+    - [Stream Processing](#Stream-Processing-)
+- [Distribution](#Distribution-)
+- [Documentation](#Documentation-)
+- [Downloader](#Downloader-)
+- [E-commerce](#E-commerce-)
+- [Editor Plugins and IDEs](#Editor-Plugins-and-IDEs-)
+    - [Emacs](#Emacs-)
+    - [Sublime Text](#Sublime-Text-)
+    - [Vim](#Vim-)
+    - [Visual Studio](#Visual-Studio-)
+    - [Visual Studio Code](#Visual-Studio-Code-)
+    - [IDE](#IDE-)
+- [Email](#Email-)
+    - [Mail Servers](#Mail-Servers-)
+    - [Clients](#Clients-)
+    - [Others](#Others-)
+- [Enterprise Application Integrations](#Enterprise-Application-Integrations-)
+- [Environment Management](#Environment-Management-)
+- [Files](#Files-)
+- [Foreign Function Interface](#Foreign-Function-Interface-)
+- [Forms](#Forms-)
+- [Functional Programming](#Functional-Programming-)
+- [GUI Development](#GUI-Development-)
+- [GraphQL](#GraphQL-)
+- [Game Development](#Game-Development-)
+- [Geolocation](#Geolocation-)
+- [HTML Manipulation](#HTML-Manipulation-)
+- [HTTP Clients](#HTTP-Clients-)
+- [Hardware](#Hardware-)
+- [Image Processing](#Image-Processing-)
+- [Implementations](#Implementations-)
+- [Interactive Interpreter](#Interactive-Interpreter-)
+- [Internationalization](#Internationalization-)
+- [Job Scheduler](#Job-Scheduler-)
+- [Logging](#Logging-)
+- [Machine Learning](#Machine-Learning-)
+- [Microsoft Windows](#Microsoft-Windows-)
+- [Miscellaneous](#Miscellaneous-)
+- [Network Virtualization](#Network-Virtualization-)
+- [News Feed](#News-Feed-)
+- [ORM](#ORM-)
+    - [Relational Databases](#Relational-Databases-)
+    - [NoSQL Databases](#NoSQL-Databases-)
+- [Package Management](#Package-Management-)
+- [Package Repositories](#Package-Repositories-)
+- [Penetration Testing](#Penetration-Testing-)
+- [Permissions](#Permissions-)
+- [Processes](#Processes-)
+- [Recommender Systems](#Recommender-Systems-)
+- [RESTful API](#RESTful-API-)
+    - [Django](#Django-)
+    - [Flask](#Flask-)
+    - [Pyramid](#Pyramid-)
+    - [Framework agnostic](#Framework-agnostic-)
+- [Robotics](#Robotics-)
+- [RPC Servers](#RPC-Servers-)
+- [Science](#Science-)
+- [Search](#Search-)
+- [Serialization](#Serialization-)
+- [Serverless Frameworks](#Serverless-Frameworks-)
+- [Shell](#Shell-)
+- [Specific Formats Processing](#Specific-Formats-Processing-)
+    - [General](#General-)
+    - [Office](#Office-)
+    - [PDF](#PDF-)
+    - [Markdown](#Markdown-)
+    - [YAML](#YAML-)
+    - [CSV](#CSV-)
+    - [Archive](#Archive-)
+- [Static Site Generator](#Static-Site-Generator-)
+- [Tagging](#Tagging-)
+- [Task Queues](#Task-Queues-)
+- [Template Engine](#Template-Engine-)
+- [Testing](#Testing-)
+    - [Testing Frameworks](#Testing-Frameworks-)
+    - [Test Runners](#Test-Runners-)
+    - [GUI / Web Testing](#GUI-/-Web-Testing-)
+    - [Mock](#Mock-)
+    - [Object Factories](#Object-Factories-)
+    - [Code Coverage](#Code-Coverage-)
+    - [Fake Data](#Fake-Data-)
+- [Text Processing](#Text-Processing-)
+    - [General](#General-)
+    - [Slugify](#Slugify-)
+    - [Unique identifiers](#Unique-identifiers-)
+    - [Parser](#Parser-)
+- [Third-party APIs](#Third-party-APIs-)
+- [URL Manipulation](#URL-Manipulation-)
+- [Video](#Video-)
+- [Web Asset Management](#Web-Asset-Management-)
+- [Web Content Extracting](#Web-Content-Extracting-)
+- [Web Crawling](#Web-Crawling-)
+- [Web Frameworks](#Web-Frameworks-)
+    - [Synchronous](#Synchronous-)
+    - [Asynchronous](#Asynchronous-)
+- [WebSocket](#WebSocket-)
+- [WSGI Servers](#WSGI-Servers-)
+- [Websites](#Websites-)
+    - [Tutorials](#Tutorials-)
+    - [Libraries](#Libraries-)
+    - [Others](#Others-)
+- [Newsletters](#Newsletters-)
+- [Podcasts](#Podcasts-)
   
 ---
   
 
   
-## Admin Panels
+## Admin Panels [🔝](#readme)
 
-* [ajenti](https://github.com/ajenti/ajenti) ` 🔥 6.2k `  - Ajenti Core and stock plugins ` 📝 5 days ago `
+* [ajenti](https://github.com/ajenti/ajenti) ` 🔥 6.3k `  - Ajenti Core and stock plugins ` 📝 5 days ago `
 * [flower](https://github.com/mher/flower) ` 🔥 4.6k ` ` 🌐 5k ` - Real-time monitor and web admin for Celery distributed task queue ` 📝 14 days ago `
-* [django-xadmin](https://github.com/sshwsfc/xadmin) ` 🔥 4.5k ` ` 🌐 705 ` - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap. ` 📝 2 years ago `
-* [flask-admin](https://github.com/flask-admin/flask-admin) ` 🔥 4.5k ` ` 🌐 9.3k ` - Simple and extensible administrative interface framework for Flask ` 📝 18 days ago `
+* [django-xadmin](https://github.com/sshwsfc/xadmin) ` 🔥 4.5k ` ` 🌐 706 ` - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap. 
+* [flask-admin](https://github.com/flask-admin/flask-admin) ` 🔥 4.5k ` ` 🌐 9.4k ` - Simple and extensible administrative interface framework for Flask ` 📝 18 days ago `
 * [django-jet](https://github.com/geex-arts/django-jet) ` 🔥 3k ` ` 🌐 2.1k ` - Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo ` 📝 2 years ago `
-* [django-grappelli](https://grappelliproject.com/) ` 🔥 2.9k ` ` 🌐 3.7k ` - A jazzy skin for the Django Admin-Interface (official repository). ` 📝 23 days ago `
-* [django-suit](https://djangosuit.com/) ` 🔥 2k ` ` 🌐 2.5k ` - Modern theme for Django admin interface ` 📝 a year ago `
+* [django-grappelli](https://grappelliproject.com/) ` 🔥 2.9k ` ` 🌐 3.7k ` - A jazzy skin for the Django Admin-Interface (official repository). ` 📝 24 days ago `
+* [django-suit](https://djangosuit.com/) ` 🔥 2k `  - Modern theme for Django admin interface ` 📝 a year ago `
 * [wooey](https://github.com/wooey/wooey) ` 🔥 1.5k ` ` 🌐 24 ` - A Django app that creates automatic web UIs for Python scripts. ` 📝 4 months ago `
-* [jet-bridge](https://github.com/jet-admin/jet-bridge) ` 🔥 839 `  - Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application ` 📝 17 days ago `
+* [jet-bridge](https://github.com/jet-admin/jet-bridge) ` 🔥 840 `  - Jet Bridge (Universal) for Jet Admin – API-based Admin Panel Framework for your application ` 📝 17 days ago `
   
-## Algorithms and Design Patterns
+## Algorithms and Design Patterns [🔝](#readme)
 
   
-* #### Algorithms
+* #### Algorithms [🔝](#readme)
 
-    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) ` 🔥 94.6k `  - All Algorithms implemented in Python ` 📝 5 days ago`
+    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) ` 🔥 94.8k `  - All Algorithms implemented in Python ` 📝 5 days ago`
     * [algorithms](https://github.com/keon/algorithms) ` 🔥 18.4k ` ` 🌐 45 ` - Minimal examples of data structures and algorithms in Python ` 📝 13 days ago`
     * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) ` 🔥 1.9k `  - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set ` 📝 a month ago`
     * [python-ds](https://github.com/prabhupant/python-ds) ` 🔥 1.2k `  - Repository for data structure and algorithms in Python for coding interviews ` 📝 2 months ago`
   
-* #### Design Patterns
+* #### Design Patterns [🔝](#readme)
 
-    * [python-patterns](https://github.com/faif/python-patterns) ` 🔥 26.5k `  - A collection of design patterns/idioms in Python ` 📝 3 months ago`
-    * [transitions](https://github.com/pytransitions/transitions) ` 🔥 3.3k ` ` 🌐 1.3k ` - A lightweight, object-oriented finite state machine implementation in Python with many extensions ` 📝 25 days ago`
+    * [python-patterns](https://github.com/faif/python-patterns) ` 🔥 26.6k `  - A collection of design patterns/idioms in Python ` 📝 3 months ago`
+    * [transitions](https://github.com/pytransitions/transitions) ` 🔥 3.4k ` ` 🌐 1.3k ` - A lightweight, object-oriented finite state machine implementation in Python with many extensions ` 📝 25 days ago`
     * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) ` 🔥 1.1k ` ` 🌐 9 ` - A simple library for implementing common design patterns. ` 📝 10 months ago`
   
-## ASGI Servers
+## ASGI Servers [🔝](#readme)
 
-* [uvicorn](https://github.com/encode/uvicorn) ` 🔥 3.4k ` ` 🌐 13.5k ` - The lightning-fast ASGI server. 🦄 ` 📝 5 days ago `
-* [daphne](https://github.com/django/daphne) ` 🔥 1.4k ` ` 🌐 7.5k ` - Django Channels HTTP/WebSocket server ` 📝 a month ago `
+* [uvicorn](https://github.com/encode/uvicorn) ` 🔥 3.4k ` ` 🌐 13.7k ` - The lightning-fast ASGI server. 
+* [daphne](https://github.com/django/daphne) ` 🔥 1.4k ` ` 🌐 7.6k ` - Django Channels HTTP/WebSocket server ` 📝 a month ago `
   
-## Asynchronous Programming
+## Asynchronous Programming [🔝](#readme)
 
-* [uvloop](https://github.com/MagicStack/uvloop) ` 🔥 7.3k ` ` 🌐 16.6k ` - Ultra fast asyncio event loop. ` 📝 11 days ago `
-* [Twisted](https://twistedmatrix.com/trac/) ` 🔥 4.1k ` ` 🌐 34.4k ` - Event-driven networking engine written in Python. ` 📝 6 days ago `
-* [trio](https://github.com/python-trio/trio) ` 🔥 3.6k ` ` 🌐 590 ` - Trio – a friendly Python library for async concurrency and I/O ` 📝 4 days ago `
+* [uvloop](https://github.com/MagicStack/uvloop) ` 🔥 7.4k `  - Ultra fast asyncio event loop. ` 📝 2 days ago `
+* [Twisted](https://twistedmatrix.com/trac/) ` 🔥 4.1k ` ` 🌐 34.5k ` - Event-driven networking engine written in Python. ` 📝 4 days ago `
+* [trio](https://github.com/python-trio/trio) ` 🔥 3.6k ` ` 🌐 596 ` - Trio – a friendly Python library for async concurrency and I/O ` 📝 21 hours ago `
 * [asyncio](https://docs.python.org/3/library/asyncio.html)   
   
-## Audio
+## Audio [🔝](#readme)
 
   
-* #### Audio
+* #### Audio [🔝](#readme)
 
-    * [dejavu](https://github.com/worldveil/dejavu) ` 🔥 5.2k ` ` 🌐 16 ` - Audio fingerprinting and recognition in Python ` 📝 6 months ago`
-    * [pydub](https://github.com/jiaaro/pydub) ` 🔥 5k ` ` 🌐 5.1k ` - Manipulate audio with a simple and easy high level interface ` 📝 2 months ago`
-    * [librosa](https://github.com/librosa/librosa) ` 🔥 4.1k ` ` 🌐 8.1k ` - Python library for audio and music analysis ` 📝 3 months ago`
-    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ` 🔥 3.6k ` ` 🌐 162 ` - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications ` 📝 a month ago`
-    * [kapre](https://github.com/keunwoochoi/kapre) ` 🔥 685 ` ` 🌐 381 ` - kapre: Keras Audio Preprocessors ` 📝 a month ago`
-    * [mingus](http://bspaans.github.io/python-mingus/) ` 🔥 533 ` ` 🌐 100 ` - Mingus is a music package for Python ` 📝 7 months ago`
-    * [audioread](https://github.com/beetbox/audioread) ` 🔥 352 ` ` 🌐 3.6k ` - cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python ` 📝 2 months ago`
-    * [matchering](https://github.com/sergree/matchering) ` 🔥 300 ` ` 🌐 2 ` - 🎚️ Open Source Audio Matching and Mastering ` 📝 a month ago`
-    * [TimeSide](https://github.com/Parisson/TimeSide) ` 🔥 295 ` ` 🌐 11 ` - Scalable audio processing framework written in Python with a RESTful API ` 📝 2 months ago`
+    * [dejavu](https://github.com/worldveil/dejavu) ` 🔥 5.3k ` ` 🌐 16 ` - Audio fingerprinting and recognition in Python ` 📝 6 months ago`
+    * [pydub](https://github.com/jiaaro/pydub) ` 🔥 5k ` ` 🌐 5.1k ` - Manipulate audio with a simple and easy high level interface ` 📝 3 days ago`
+    * [librosa](https://github.com/librosa/librosa) ` 🔥 4.1k ` ` 🌐 8.2k ` - Python library for audio and music analysis ` 📝 3 months ago`
+    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ` 🔥 3.6k ` ` 🌐 163 ` - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications ` 📝 a month ago`
+    * [kapre](https://github.com/keunwoochoi/kapre) ` 🔥 687 ` ` 🌐 389 ` - kapre: Keras Audio Preprocessors ` 📝 a month ago`
+    * [mingus](http://bspaans.github.io/python-mingus/) ` 🔥 533 ` ` 🌐 101 ` - Mingus is a music package for Python ` 📝 7 months ago`
+    * [audioread](https://github.com/beetbox/audioread) ` 🔥 352 `  - cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python ` 📝 2 months ago`
+    * [matchering](https://github.com/sergree/matchering) ` 🔥 302 ` ` 🌐 2 ` - Open Source Audio Matching and Mastering ` 📝 4 days ago`
+    * [TimeSide](https://github.com/Parisson/TimeSide) ` 🔥 295 `  - Scalable audio processing framework written in Python with a RESTful API 
   
-* #### Metadata
+* #### Metadata [🔝](#readme)
 
-    * [beets](https://github.com/beetbox/beets) ` 🔥 9.8k ` ` 🌐 155 ` - music library manager and MusicBrainz tagger ` 📝 10 days ago`
+    * [beets](https://github.com/beetbox/beets) ` 🔥 9.8k ` ` 🌐 155 ` - music library manager and MusicBrainz tagger ` 📝 2 days ago`
     * [mutagen](https://github.com/quodlibet/mutagen) ` 🔥 704 ` ` 🌐 3.6k ` - Python module for handling audio metadata ` 📝 2 months ago`
-    * [tinytag](https://github.com/devsnd/tinytag) ` 🔥 426 ` ` 🌐 267 ` - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3 ` 📝 a month ago`
-    * [eyeD3](https://github.com/nicfit/eyeD3) ` 🔥 270 ` ` 🌐 1k ` - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4). ` 📝 10 days ago`
+    * [tinytag](https://github.com/devsnd/tinytag) ` 🔥 426 ` ` 🌐 268 ` - Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python 2 or 3 ` 📝 a month ago`
+    * [eyeD3](https://github.com/nicfit/eyeD3) ` 🔥 272 ` ` 🌐 1k ` - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4). ` 📝 10 days ago`
   
-## Authentication
+## Authentication [🔝](#readme)
 
   
-* #### OAuth
+* #### OAuth [🔝](#readme)
 
-    * [django-allauth](https://github.com/pennersr/django-allauth) ` 🔥 6.1k ` ` 🌐 49.2k ` - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. ` 📝 21 days ago`
+    * [django-allauth](https://github.com/pennersr/django-allauth) ` 🔥 6.1k ` ` 🌐 49.8k ` - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. ` 📝 21 days ago`
     * [python-oauth2](https://github.com/joestump/python-oauth2) ` 🔥 2.9k ` ` 🌐 7.6k ` - A fully tested, abstract interface to creating OAuth clients and servers. ` 📝 3 years ago`
     * [python-social-auth](https://github.com/omab/python-social-auth) ` 🔥 2.8k ` ` 🌐 4.6k ` - Social auth made simple ` 📝 4 years ago`
-    * [authlib](https://github.com/lepture/authlib) ` 🔥 2.2k ` ` 🌐 10.1k ` - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included. ` 📝 9 days ago`
-    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) ` 🔥 2.1k `  - OAuth2 goodies for the Djangonauts! ` 📝 a month ago`
-    * [oauthlib](https://github.com/idan/oauthlib) ` 🔥 2.1k ` ` 🌐 109k ` - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic ` 📝 5 months ago`
+    * [authlib](https://github.com/lepture/authlib) ` 🔥 2.2k ` ` 🌐 10.2k ` - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included. ` 📝 9 days ago`
+    * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) ` 🔥 2.1k `  - OAuth2 goodies for the Djangonauts! ` 📝 2 days ago`
+    * [oauthlib](https://github.com/idan/oauthlib) ` 🔥 2.1k ` ` 🌐 111k ` - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic ` 📝 5 months ago`
   
-* #### JWT
+* #### JWT [🔝](#readme)
 
-    * [pyjwt](https://github.com/jpadilla/pyjwt) ` 🔥 3.6k `  - JSON Web Token implementation in Python ` 📝 5 days ago`
-    * [python-jose](https://github.com/mpdavis/python-jose/) ` 🔥 750 ` ` 🌐 4.5k ` - A JOSE implementation in Python ` 📝 10 days ago`
-    * [python-jwt](https://github.com/davedoesdev/python-jwt) ` 🔥 181 `  - Python module for generating and verifying JSON Web Tokens ` 📝 4 months ago`
+    * [pyjwt](https://github.com/jpadilla/pyjwt) ` 🔥 3.6k `  - JSON Web Token implementation in Python ` 📝 2 hours ago`
+    * [python-jose](https://github.com/mpdavis/python-jose/) ` 🔥 750 ` ` 🌐 4.6k ` - A JOSE implementation in Python ` 📝 10 days ago`
+    * [python-jwt](https://github.com/davedoesdev/python-jwt) ` 🔥 181 `  - Python module for generating and verifying JSON Web Tokens 
   
-## Build Tools
+## Build Tools [🔝](#readme)
 
-* [PlatformIO](https://github.com/platformio/platformio-core) ` 🔥 4.6k `  - PlatformIO is a professional collaborative platform for embedded development 👽 A place where Developers and Teams have true Freedom! No more vendor lock-in! ` 📝 6 days ago `
+* [PlatformIO](https://github.com/platformio/platformio-core) ` 🔥 4.6k `  - PlatformIO is a professional collaborative platform for embedded development  A place where Developers and Teams have true Freedom! No more vendor lock-in! ` 📝 6 days ago `
 * [pybuilder](https://github.com/pybuilder/pybuilder) ` 🔥 1.3k `  - Software build automation tool for Python. ` 📝 2 months ago `
-* [SCons](http://www.scons.org/) ` 🔥 1k `  - SCons - a software construction tool ` 📝 4 days ago `
-* [buildout](http://www.buildout.org/en/latest/) ` 🔥 497 `  - Buildout is a deployment automation tool written in and extended with Python ` 📝 2 months ago `
+* [SCons](http://www.scons.org/) ` 🔥 1k `  - SCons - a software construction tool ` 📝 3 days ago `
+* [buildout](http://www.buildout.org/en/latest/) ` 🔥 498 `  - Buildout is a deployment automation tool written in and extended with Python ` 📝 2 months ago `
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)   
   
-## Built-in Classes Enhancement
+## Built-in Classes Enhancement [🔝](#readme)
 
-* [attrs](https://github.com/python-attrs/attrs) ` 🔥 3.3k ` ` 🌐 180k ` - Python Classes Without Boilerplate ` 📝 4 days ago `
-* [Box](https://github.com/cdgriffith/Box) ` 🔥 1.6k ` ` 🌐 1k ` - Python dictionaries with advanced dot notation access ` 📝 2 months ago `
-* [bidict](https://github.com/jab/bidict) ` 🔥 685 ` ` 🌐 1.1k ` - The bidirectional mapping library for Python. ` 📝 19 days ago `
-* [DottedDict](https://github.com/carlosescri/DottedDict) ` 🔥 110 ` ` 🌐 27 ` - Python library that provides a method of accessing lists and dicts with a dotted path notation. ` 📝 5 years ago `
+* [attrs](https://github.com/python-attrs/attrs) ` 🔥 3.3k `  - Python Classes Without Boilerplate ` 📝 4 days ago `
+* [Box](https://github.com/cdgriffith/Box) ` 🔥 1.6k `  - Python dictionaries with advanced dot notation access 
+* [bidict](https://github.com/jab/bidict) ` 🔥 688 `  - The bidirectional mapping library for Python. ` 📝 19 days ago `
+* [DottedDict](https://github.com/carlosescri/DottedDict) ` 🔥 111 ` ` 🌐 28 ` - Python library that provides a method of accessing lists and dicts with a dotted path notation. ` 📝 5 years ago `
 * [dataclasses](https://docs.python.org/3/library/dataclasses.html)   
   
-## CMS
+## CMS [🔝](#readme)
 
-* [wagtail](https://wagtail.io/) ` 🔥 9.8k ` ` 🌐 4.4k ` - A Django content management system focused on flexibility and user experience ` 📝 7 days ago `
+* [wagtail](https://wagtail.io/) ` 🔥 9.9k ` ` 🌐 4.4k ` - A Django content management system focused on flexibility and user experience ` 📝 10 hours ago `
 * [django-cms](https://www.django-cms.org/en/) ` 🔥 7.9k ` ` 🌐 3.2k ` - The easy-to-use and developer-friendly CMS ` 📝 25 days ago `
 * [mezzanine](https://github.com/stephenmcd/mezzanine) ` 🔥 4.2k `  - CMS framework for Django ` 📝 3 months ago `
 * [quokka](https://github.com/rochacbruno/quokka) ` 🔥 2.2k `  - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka` ` 📝 2 years ago `
-* [indico](https://github.com/indico/indico) ` 🔥 1.1k ` ` 🌐 43 ` - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born. ` 📝 6 days ago `
-* [feincms](https://github.com/feincms/feincms) ` 🔥 783 ` ` 🌐 199 ` - A Django-based CMS with a focus on extensibility and concise code ` 📝 8 days ago `
-* [Kotti](https://github.com/Kotti/Kotti) ` 🔥 354 ` ` 🌐 150 ` - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS. ` 📝 9 days ago `
+* [indico](https://github.com/indico/indico) ` 🔥 1.1k ` ` 🌐 43 ` - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born. ` 📝 a day ago `
+* [feincms](https://github.com/feincms/feincms) ` 🔥 784 `  - A Django-based CMS with a focus on extensibility and concise code 
+* [Kotti](https://github.com/Kotti/Kotti) ` 🔥 355 ` ` 🌐 150 ` - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS. ` 📝 9 days ago `
 * [plone](https://plone.org/) ` 🔥 152 `  - The core of the Plone content management system ` 📝 11 days ago `
   
-## Caching
+## Caching [🔝](#readme)
 
-* [django-cacheops](https://github.com/Suor/django-cacheops) ` 🔥 1.3k ` ` 🌐 395 ` - A slick ORM cache with automatic granular event-driven invalidation. ` 📝 2 months ago `
-* [python-diskcache](http://www.grantjenks.com/docs/diskcache/) ` 🔥 819 `  - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python. ` 📝 a month ago `
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) ` 🔥 798 ` ` 🌐 194 ` - Automatic caching and invalidation for Django models through the ORM. ` 📝 a year ago `
-* [beaker](https://github.com/bbangert/beaker) ` 🔥 463 ` ` 🌐 2.4k ` - WSGI middleware for sessions and caching ` 📝 2 months ago `
+* [django-cacheops](https://github.com/Suor/django-cacheops) ` 🔥 1.3k ` ` 🌐 399 ` - A slick ORM cache with automatic granular event-driven invalidation. ` 📝 2 months ago `
+* [python-diskcache](http://www.grantjenks.com/docs/diskcache/) ` 🔥 820 `  - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python. ` 📝 21 hours ago `
+* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) ` 🔥 799 ` ` 🌐 195 ` - Automatic caching and invalidation for Django models through the ORM. ` 📝 a year ago `
+* [beaker](https://github.com/bbangert/beaker) ` 🔥 463 `  - WSGI middleware for sessions and caching 
 * [pylibmc](https://github.com/lericson/pylibmc) ` 🔥 441 ` ` 🌐 3.1k ` - A Python wrapper around the libmemcached interface from TangentOrg. ` 📝 6 months ago `
-* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) ` 🔥 99 `  - dogpile.cache is a Python caching API which provides a generic interface to caching backends of any variety 
+* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) ` 🔥 100 `  - dogpile.cache is a Python caching API which provides a generic interface to caching backends of any variety 
 * [HermesCache](https://pypi.org/project/HermesCache/)   
   
-## ChatOps Tools
+## ChatOps Tools [🔝](#readme)
 
-* [errbot](https://github.com/errbotio/errbot/) ` 🔥 2.4k ` ` 🌐 184 ` - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. ` 📝 9 days ago `
+* [errbot](https://github.com/errbotio/errbot/) ` 🔥 2.4k ` ` 🌐 186 ` - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. 
   
-## Code Analysis
+## Code Analysis [🔝](#readme)
 
   
-* #### Code Analysis
+* #### Code Analysis [🔝](#readme)
 
     * [coala](https://github.com/coala/coala/) ` 🔥 3.1k ` ` 🌐 10 ` - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. ` 📝 7 months ago`
-    * [pycallgraph](https://github.com/gak/pycallgraph) ` 🔥 1.5k ` ` 🌐 252 ` - pycallgraph is a Python module that creates call graphs for Python programs. ` 📝 3 years ago`
+    * [pycallgraph](https://github.com/gak/pycallgraph) ` 🔥 1.5k ` ` 🌐 253 ` - pycallgraph is a Python module that creates call graphs for Python programs. ` 📝 3 years ago`
     * [prospector](https://github.com/PyCQA/prospector) ` 🔥 1.4k ` ` 🌐 1.8k ` - Inspects Python source files and provides information about type and location of classes, methods etc ` 📝 2 months ago`
-    * [vulture](https://github.com/jendrikseipp/vulture) ` 🔥 1.1k ` ` 🌐 716 ` - Find dead Python code ` 📝 a month ago`
-    * [code2flow](https://github.com/scottrogowski/code2flow) ` 🔥 791 ` ` 🌐 4 ` - Turn your Python and Javascript code into DOT flowcharts ` 📝 4 years ago`
+    * [vulture](https://github.com/jendrikseipp/vulture) ` 🔥 1.1k ` ` 🌐 722 ` - Find dead Python code ` 📝 a month ago`
+    * [code2flow](https://github.com/scottrogowski/code2flow) ` 🔥 793 ` ` 🌐 4 ` - Turn your Python and Javascript code into DOT flowcharts ` 📝 4 years ago`
   
-* #### Code Linters
+* #### Code Linters [🔝](#readme)
 
     * [pylint](https://www.pylint.org/) ` 🔥 3.1k ` ` 🌐 162k ` - It's not just a linter that annoys you! ` 📝 18 days ago`
-    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ` 🔥 1.3k ` ` 🌐 205 ` - The strictest and most opinionated python linter ever! ` 📝 4 days ago`
-    * [flake8](https://pypi.org/project/flake8/) ` 🔥 1k ` ` 🌐 131k ` - The official GitHub mirror of https://gitlab.com/pycqa/flake8 ` 📝 a month ago`
+    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ` 🔥 1.3k ` ` 🌐 205 ` - The strictest and most opinionated python linter ever! ` 📝 5 days ago`
+    * [flake8](https://pypi.org/project/flake8/) ` 🔥 1k ` ` 🌐 132k ` - The official GitHub mirror of https://gitlab.com/pycqa/flake8 ` 📝 a month ago`
     * [pylama](https://github.com/klen/pylama) ` 🔥 749 ` ` 🌐 2k ` - Code audit tool for python. ` 📝 2 years ago`
     * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)   
   
-* #### Code Formatters
+* #### Code Formatters [🔝](#readme)
 
     * [black](https://github.com/python/black) ` 🔥 18.8k ` ` 🌐 37k ` - The uncompromising Python code formatter ` 📝 4 days ago`
     * [yapf](https://github.com/google/yapf) ` 🔥 11.3k ` ` 🌐 14.8k ` - A formatter for Python files ` 📝 6 days ago`
     * [isort](https://github.com/timothycrosley/isort) ` 🔥 3.6k ` ` 🌐 139k ` - A Python utility / library to sort imports. ` 📝 5 days ago`
   
-* #### Static Type Checkers, also see [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+* #### Static Type Checkers, also see [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) [🔝](#readme)
 
     * [mypy](http://mypy-lang.org/) ` 🔥 9.6k ` ` 🌐 22.8k ` - Optional static typing for Python 3 and 2 (PEP 484) ` 📝 5 days ago`
     * [pyre-check](https://github.com/facebook/pyre-check) ` 🔥 5.1k `  - Performant type-checking for python. ` 📝 6 days ago`
     * [typeshed](https://github.com/python/typeshed) ` 🔥 1.9k `  - Collection of library stubs for Python, with static types ` 📝 4 days ago`
   
-* #### Static Type Annotations Generators
+* #### Static Type Annotations Generators [🔝](#readme)
 
     * [MonkeyType](https://github.com/Instagram/MonkeyType) ` 🔥 3.2k ` ` 🌐 101 ` - A system for Python that generates static type annotations by collecting runtime types ` 📝 a month ago`
     * [pytype](https://github.com/google/pytype) ` 🔥 3k `  - A static type analyzer for Python code ` 📝 7 days ago`
     * [pyannotate](https://github.com/dropbox/pyannotate) ` 🔥 1.1k `  - Auto-generate PEP-484 annotations ` 📝 a month ago`
   
-## Command-line Interface Development
+## Command-line Interface Development [🔝](#readme)
 
   
-* #### Command-line Application Development
+* #### Command-line Application Development [🔝](#readme)
 
     * [python-fire](https://github.com/google/python-fire) ` 🔥 18.3k ` ` 🌐 5.3k ` - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. ` 📝 2 months ago`
     * [click](http://click.pocoo.org/dev/) ` 🔥 10.1k ` ` 🌐 400k ` - Python composable command line interface toolkit ` 📝 17 days ago`
@@ -349,7 +346,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [cement](http://builtoncement.com/) ` 🔥 989 ` ` 🌐 5.2k ` - Application Framework for Python ` 📝 3 months ago`
     * [cliff](https://docs.openstack.org/developer/cliff/) ` 🔥 182 `  - Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org. 
   
-* #### Terminal Rendering
+* #### Terminal Rendering [🔝](#readme)
 
     * [tqdm](https://github.com/tqdm/tqdm) ` 🔥 16.7k `  - A Fast, Extensible Progress Bar for Python and CLI ` 📝 13 days ago`
     * [rich](https://github.com/willmcgugan/rich) ` 🔥 16.3k `  - Rich is a Python library for rich text and beautiful formatting in the terminal. ` 📝 5 days ago`
@@ -358,10 +355,10 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [bashplotlib](https://github.com/glamp/bashplotlib) ` 🔥 1.5k ` ` 🌐 103 ` - plotting in the terminal ` 📝 2 years ago`
     * [alive-progress](https://github.com/rsalmei/alive-progress) ` 🔥 892 ` ` 🌐 147 ` - A new kind of Progress Bar, with real time throughput, eta and very cool animations! ` 📝 5 months ago`
   
-## Command-line Tools
+## Command-line Tools [🔝](#readme)
 
   
-* #### Productivity Tools
+* #### Productivity Tools [🔝](#readme)
 
     * [thefuck](https://github.com/nvbn/thefuck) ` 🔥 57.8k ` ` 🌐 226 ` - Magnificent app which corrects your previous console command. ` 📝 a month ago`
     * [cookiecutter](https://github.com/audreyr/cookiecutter) ` 🔥 13.4k ` ` 🌐 6.8k ` - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects. ` 📝 2 months ago`
@@ -374,7 +371,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [try](https://github.com/timofurrer/try) ` 🔥 569 ` ` 🌐 3 ` - Dead simple CLI tool to try Python packages - It's never been easier! 
     * [copier](https://github.com/pykong/copier) ` 🔥 153 `  - Library and command-line utility for rendering projects templates. ` 📝 20 days ago`
   
-* #### CLI Enhancements
+* #### CLI Enhancements [🔝](#readme)
 
     * [httpie](https://github.com/jakubroztocil/httpie) ` 🔥 49.1k ` ` 🌐 7.5k ` - As easy as /aitch-tee-tee-pie/  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie ` 📝 2 months ago`
     * [mycli](https://github.com/dbcli/mycli) ` 🔥 9.2k ` ` 🌐 174 ` - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. ` 📝 2 months ago`
@@ -384,13 +381,13 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [iredis](https://github.com/laixintao/iredis) ` 🔥 1.3k `  - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting. ` 📝 23 days ago`
     * [litecli](https://github.com/dbcli/litecli) ` 🔥 1.3k ` ` 🌐 59 ` - CLI for SQLite Databases with auto-completion and syntax highlighting ` 📝 6 days ago`
   
-## Compatibility
+## Compatibility [🔝](#readme)
 
 * [python-future](http://python-future.org/index.html) ` 🔥 1.1k ` ` 🌐 111k ` - Easy, clean, reliable Python 2/3 compatibility ` 📝 21 days ago `
 * [six](https://pypi.org/project/six/) ` 🔥 725 ` ` 🌐 709k ` - Python 2 and 3 compatibility library ` 📝 7 months ago `
 * [modernize](https://github.com/PyCQA/modernize) ` 🔥 239 `  - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3) 
   
-## Computer Vision
+## Computer Vision [🔝](#readme)
 
 * [OpenCV](https://opencv.org/) ` 🔥 50.8k `  - Open Source Computer Vision Library ` 📝 5 days ago `
 * [Face Recognition](https://github.com/ageitgey/face_recognition) ` 🔥 37.7k `  - The world's simplest facial recognition api for Python and the command line ` 📝 3 months ago `
@@ -400,16 +397,16 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [SimpleCV](https://github.com/sightmachine/SimpleCV) ` 🔥 2.4k ` ` 🌐 282 ` - The Open Source Framework for Machine Vision ` 📝 6 years ago `
 * [tesserocr](https://github.com/sirfz/tesserocr) ` 🔥 1.4k ` ` 🌐 412 ` - A Python wrapper for the tesseract-ocr API ` 📝 a month ago `
   
-## Concurrency and Parallelism
+## Concurrency and Parallelism [🔝](#readme)
 
-* [uvloop](https://github.com/MagicStack/uvloop) ` 🔥 7.3k ` ` 🌐 16.6k ` - Ultra fast asyncio event loop. ` 📝 11 days ago `
-* [gevent](http://www.gevent.org/) ` 🔥 5.4k ` ` 🌐 53k ` - Coroutine-based concurrency library for Python ` 📝 7 days ago `
+* [uvloop](https://github.com/MagicStack/uvloop) ` 🔥 7.4k `  - Ultra fast asyncio event loop. ` 📝 2 days ago `
+* [gevent](http://www.gevent.org/) ` 🔥 5.4k ` ` 🌐 53k ` - Coroutine-based concurrency library for Python ` 📝 8 days ago `
 * [eventlet](http://eventlet.net/) ` 🔥 983 ` ` 🌐 14.6k ` - Concurrent networking library for Python ` 📝 4 days ago `
 * [scoop](https://github.com/soravux/scoop) ` 🔥 484 `  - SCOOP (Scalable COncurrent Operations in Python) 
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)   
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)   
   
-## Configuration
+## Configuration [🔝](#readme)
 
 * [hydra](https://github.com/facebookresearch/hydra) ` 🔥 3.2k ` ` 🌐 398 ` - Hydra is a framework for elegantly configuring complex applications ` 📝 5 days ago `
 * [python-decouple](https://github.com/henriquebastos/python-decouple) ` 🔥 1.6k ` ` 🌐 28.7k ` - Strict separation of config from code. ` 📝 10 months ago `
@@ -417,14 +414,14 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [profig](https://profig.readthedocs.io/en/latest/) ` 🔥 20 ` ` 🌐 39 ` - A straightforward configuration library for Python. ` 📝 a year ago `
 * [configparser](https://docs.python.org/3/library/configparser.html)   
   
-## Cryptography
+## Cryptography [🔝](#readme)
 
 * [paramiko](https://github.com/paramiko/paramiko) ` 🔥 6.7k ` ` 🌐 33.8k ` - The leading native Python SSHv2 protocol library. ` 📝 3 months ago `
 * [cryptography](https://cryptography.io/en/latest/) ` 🔥 3.7k ` ` 🌐 130k ` - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. ` 📝 4 days ago `
 * [pynacl](https://github.com/pyca/pynacl) ` 🔥 740 `  - Python binding to the Networking and Cryptography (NaCl) library ` 📝 18 days ago `
 * [passlib](https://passlib.readthedocs.io/en/stable/)   
   
-## Data Analysis
+## Data Analysis [🔝](#readme)
 
 * [Pandas](http://pandas.pydata.org/) ` 🔥 27.6k ` ` 🌐 332k ` - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more ` 📝 4 days ago `
 * [Blaze](https://github.com/blaze/blaze) ` 🔥 2.9k ` ` 🌐 7.3k ` - NumPy and Pandas interface to Big Data ` 📝 a year ago `
@@ -433,7 +430,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [Open Mining](https://github.com/mining/mining) ` 🔥 1.1k ` ` 🌐 4 ` - Business Intelligence (BI) in Python, OLAP ` 📝 4 years ago `
 * [Optimus](https://github.com/ironmussa/Optimus) ` 🔥 962 ` ` 🌐 11 ` - Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark ` 📝 a month ago `
   
-## Data Validation
+## Data Validation [🔝](#readme)
 
 * [jsonschema](https://github.com/Julian/jsonschema) ` 🔥 3k ` ` 🌐 121k ` - An(other) implementation of JSON Schema for Python ` 📝 a month ago `
 * [Schematics](https://github.com/schematics/schematics) ` 🔥 2.4k ` ` 🌐 743 ` - Python Data Structures for Humans™. ` 📝 2 years ago `
@@ -443,7 +440,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) ` 🔥 398 `  - A serialization/deserialization/validation library for strings, mappings and lists. ` 📝 19 days ago `
 * [valideer](https://github.com/podio/valideer) ` 🔥 244 ` ` 🌐 29 ` - Lightweight data validation and adaptation Python library. ` 📝 3 years ago `
   
-## Data Visualization
+## Data Visualization [🔝](#readme)
 
 * [Bokeh](https://github.com/bokeh/bokeh) ` 🔥 14.4k ` ` 🌐 28.3k ` - Interactive Data Visualization in the browser, from Python ` 📝 10 days ago `
 * [Matplotlib](http://matplotlib.org/) ` 🔥 12.8k ` ` 🌐 286k ` - matplotlib: plotting with Python ` 📝 4 days ago `
@@ -459,44 +456,44 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [PyGraphviz](https://pypi.org/project/pygraphviz/) ` 🔥 516 `  - Python interface to Graphviz graph drawing package ` 📝 4 months ago `
 * [Dash](https://plot.ly/products/dash/)   
   
-## Database
+## Database [🔝](#readme)
 
 * [tinydb](https://github.com/msiemens/tinydb) ` 🔥 3.9k `  - TinyDB is a lightweight document oriented database optimized for your happiness :) ` 📝 12 days ago `
 * [pickleDB](https://github.com/patx/pickledb) ` 🔥 522 ` ` 🌐 389 ` - pickleDB is an open source key-value store using Python's json module. ` 📝 a year ago `
 * [ZODB](https://github.com/zopefoundation/ZODB) ` 🔥 436 ` ` 🌐 518 ` - Python object-oriented database ` 📝 2 months ago `
   
-## Database Drivers
+## Database Drivers [🔝](#readme)
 
   
-* #### MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
+* #### MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) [🔝](#readme)
 
     * [PyMySQL](https://github.com/PyMySQL/PyMySQL) ` 🔥 6.2k ` ` 🌐 68.5k ` - Pure Python MySQL Client ` 📝 8 days ago`
     * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) ` 🔥 1.8k `  - MySQL database connector for Python (with Python 3 support) ` 📝 7 days ago`
   
-* #### PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+* #### PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) [🔝](#readme)
 
     * [psycopg2](http://initd.org/psycopg/) ` 🔥 2k ` ` 🌐 279k ` - PostgreSQL database adapter for the Python programming language ` 📝 a month ago`
     * [queries](https://github.com/gmr/queries) ` 🔥 230 ` ` 🌐 78 ` - PostgreSQL database access simplified ` 📝 4 months ago`
   
-* #### Other Relational Databases
+* #### Other Relational Databases [🔝](#readme)
 
     * [SuperSQLite](https://github.com/plasticityai/supersqlite) ` 🔥 653 ` ` 🌐 3 ` - A supercharged SQLite library for Python ` 📝 a year ago`
     * [pymssql](https://pymssql.readthedocs.io/en/latest/) ` 🔥 545 ` ` 🌐 2.5k ` - Official home for the pymssql source code. ` 📝 14 days ago`
   
-* #### NoSQL Databases
+* #### NoSQL Databases [🔝](#readme)
 
     * [redis-py](https://github.com/andymccurdy/redis-py) ` 🔥 9k `  - Redis Python Client ` 📝 25 days ago`
-    * [kafka-python](https://github.com/dpkp/kafka-python) ` 🔥 4.1k ` ` 🌐 5.2k ` - Python client for Apache Kafka ` 📝 15 days ago`
+    * [kafka-python](https://github.com/dpkp/kafka-python) ` 🔥 4.1k ` ` 🌐 5.2k ` - Python client for Apache Kafka ` 📝 16 days ago`
     * [pymongo](https://github.com/mongodb/mongo-python-driver) ` 🔥 3.2k ` ` 🌐 78.8k ` - PyMongo - the Python driver for MongoDB ` 📝 9 days ago`
     * [cassandra-driver](https://github.com/datastax/python-driver) ` 🔥 1.2k ` ` 🌐 2.2k ` - DataStax Python Driver for Apache Cassandra ` 📝 a month ago`
     * [py2neo](https://py2neo.org/) ` 🔥 952 `  - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line. ` 📝 6 days ago`
     * [happybase](https://github.com/wbolster/happybase) ` 🔥 552 `  - A developer-friendly Python library to interact with Apache HBase 
   
-* #### Asynchronous Clients
+* #### Asynchronous Clients [🔝](#readme)
 
     * [motor](https://github.com/mongodb/motor) ` 🔥 1.6k ` ` 🌐 3.1k ` - Motor - the async Python driver for MongoDB and Tornado or asyncio ` 📝 3 months ago`
   
-## Date and Time
+## Date and Time [🔝](#readme)
 
 * [Arrow](https://arrow.readthedocs.io/en/latest/) ` 🔥 6.4k ` ` 🌐 15.8k ` - Better dates & times for Python ` 📝 4 days ago `
 * [Pendulum](https://github.com/sdispater/pendulum) ` 🔥 4.2k `  - Python datetimes made easy ` 📝 5 months ago `
@@ -509,24 +506,24 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [PyTime](https://github.com/shinux/PyTime) ` 🔥 138 ` ` 🌐 13 ` - PyTime is an easy-use Python module which aims to operate date/time/datetime by string. ` 📝 3 months ago `
 * [pytz](https://launchpad.net/pytz) ` 🔥 134 ` ` 🌐 588k ` - pytz Python historical timezone library and database 
   
-## Debugging Tools
+## Debugging Tools [🔝](#readme)
 
   
-* #### pdb-like Debugger
+* #### pdb-like Debugger [🔝](#readme)
 
     * [pudb](https://github.com/inducer/pudb) ` 🔥 1.9k ` ` 🌐 2k ` - Full-screen console debugger for Python ` 📝 8 days ago`
     * [wdb](https://github.com/Kozea/wdb) ` 🔥 1.5k ` ` 🌐 76 ` - An improbable web debugger through WebSockets ` 📝 a year ago`
     * [ipdb](https://github.com/gotcha/ipdb) ` 🔥 1.3k ` ` 🌐 23.1k ` - Integration of IPython pdb ` 📝 2 months ago`
     * [pdb++](https://github.com/antocuni/pdb) ` 🔥 632 ` ` 🌐 1.7k ` - pdb++, a drop-in replacement for pdb (the Python debugger) ` 📝 a month ago`
   
-* #### Tracing
+* #### Tracing [🔝](#readme)
 
     * [pyringe](https://github.com/google/pyringe) ` 🔥 1.6k ` ` 🌐 2 ` - Debugger capable of attaching to and injecting code into python processes. ` 📝 7 years ago`
     * [lptrace](https://github.com/khamidou/lptrace) ` 🔥 667 ` ` 🌐 2 ` - Trace any Python program, anywhere! ` 📝 4 years ago`
     * [python-hunter](https://github.com/ionelmc/python-hunter) ` 🔥 573 ` ` 🌐 44 ` - Hunter is a flexible code tracing toolkit. ` 📝 2 months ago`
     * [manhole](https://github.com/ionelmc/python-manhole) ` 🔥 299 ` ` 🌐 54 ` - Debugging manhole for python applications. ` 📝 a year ago`
   
-* #### Profiler
+* #### Profiler [🔝](#readme)
 
     * [py-spy](https://github.com/benfred/py-spy) ` 🔥 6.3k ` ` 🌐 464 ` - Sampling profiler for Python programs ` 📝 a month ago`
     * [vprof](https://github.com/nvdv/vprof) ` 🔥 3.7k ` ` 🌐 61 ` - Visual profiler for Python ` 📝 a month ago`
@@ -535,7 +532,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [pyflame](https://github.com/uber/pyflame) ` 🔥 2.9k `  - Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained. ` 📝 a year ago`
     * [memory_profiler](https://github.com/fabianp/memory_profiler) ` 🔥 57 `  - Monitor Memory usage of Python code ` 📝 2 years ago`
   
-* #### Others
+* #### Others [🔝](#readme)
 
     * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) ` 🔥 6.2k ` ` 🌐 33.7k ` - A configurable set of panels that display various debug information about the current request/response. ` 📝 15 days ago`
     * [icecream](https://github.com/gruns/icecream) ` 🔥 1.6k `  - Never use print() to debug again. ` 📝 a month ago`
@@ -543,7 +540,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [pyelftools](https://github.com/eliben/pyelftools) ` 🔥 1.1k ` ` 🌐 1.5k ` - Parsing ELF and DWARF in Python ` 📝 10 days ago`
     * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) ` 🔥 780 ` ` 🌐 11.8k ` - A toolbar overlay for debugging Flask applications 
   
-## Deep Learning
+## Deep Learning [🔝](#readme)
 
 * [tensorflow](https://github.com/tensorflow/tensorflow) ` 🔥 151k ` ` 🌐 109k ` - An Open Source Machine Learning Framework for Everyone ` 📝 4 days ago `
 * [keras](https://github.com/keras-team/keras) ` 🔥 50.3k `  - Deep Learning for humans ` 📝 6 days ago `
@@ -553,10 +550,10 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [Theano](https://github.com/Theano/Theano) ` 🔥 9.3k ` ` 🌐 9.5k ` - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation. ` 📝 3 months ago `
 * [SerpentAI](https://github.com/SerpentAI/SerpentAI) ` 🔥 5.8k `  - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! ` 📝 7 months ago `
   
-## DevOps Tools
+## DevOps Tools [🔝](#readme)
 
   
-* #### Configuration Management
+* #### Configuration Management [🔝](#readme)
 
     * [ansible](https://github.com/ansible/ansible) ` 🔥 46k ` ` 🌐 14.6k ` - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. ` 📝 6 days ago`
     * [saltstack](https://github.com/saltstack/salt) ` 🔥 11.4k `  - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ` 📝 5 days ago`
@@ -564,33 +561,33 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [pyinfra](https://github.com/Fizzadar/pyinfra) ` 🔥 1k ` ` 🌐 14 ` - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. ` 📝 9 days ago`
     * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) ` 🔥 786 `  - Official upstream for the cloud-init: cloud instance initialization ` 📝 6 days ago`
   
-* #### SSH-style Deployment
+* #### SSH-style Deployment [🔝](#readme)
 
     * [fabric](https://github.com/fabric/fabric) ` 🔥 12.6k `  - Simple, Pythonic remote execution and deployment. ` 📝 a year ago`
     * [cuisine](https://github.com/sebastien/cuisine) ` 🔥 1.2k `  - Chef-like functionality for Fabric 
     * [fabtools](https://github.com/fabtools/fabtools) ` 🔥 1.2k ` ` 🌐 260 ` - Tools for writing awesome Fabric files ` 📝 a year ago`
   
-* #### Process Management
+* #### Process Management [🔝](#readme)
 
     * [supervisor](https://github.com/Supervisor/supervisor) ` 🔥 6.5k ` ` 🌐 5.3k ` - Supervisor process control system for UNIX ` 📝 a month ago`
     * [honcho](https://github.com/nickstenning/honcho) ` 🔥 1.4k ` ` 🌐 2.6k ` - Honcho: a python clone of Foreman. For managing Procfile-based applications. ` 📝 9 months ago`
   
-* #### Monitoring
+* #### Monitoring [🔝](#readme)
 
     * [psutil](https://github.com/giampaolo/psutil) ` 🔥 6.8k ` ` 🌐 64k ` - Cross-platform lib for process and system monitoring in Python ` 📝 4 days ago`
   
-* #### Backup
+* #### Backup [🔝](#readme)
 
     * [BorgBackup](https://www.borgbackup.org/) ` 🔥 6.8k ` ` 🌐 29 ` - Deduplicating archiver with compression and authenticated encryption. ` 📝 6 days ago`
   
-* #### Others
+* #### Others [🔝](#readme)
 
     * [docker-compose](https://docs.docker.com/compose/) ` 🔥 21.4k ` ` 🌐 5.5k ` - Define and run multi-container applications with Docker ` 📝 10 days ago`
   
-## Distributed Computing
+## Distributed Computing [🔝](#readme)
 
   
-* #### Batch Processing
+* #### Batch Processing [🔝](#readme)
 
     * [Ray](https://github.com/ray-project/ray/) ` 🔥 14.1k ` ` 🌐 1.3k ` - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ` 📝 4 days ago`
     * [luigi](https://github.com/spotify/luigi) ` 🔥 14k ` ` 🌐 1.2k ` - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ` 📝 7 days ago`
@@ -598,12 +595,12 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [mrjob](https://github.com/Yelp/mrjob) ` 🔥 2.5k ` ` 🌐 626 ` - Run MapReduce jobs on Hadoop or Amazon Web Services ` 📝 a month ago`
     * [PySpark](https://pypi.org/project/pyspark/)   
   
-* #### Stream Processing
+* #### Stream Processing [🔝](#readme)
 
     * [faust](https://github.com/robinhood/faust) ` 🔥 5.1k ` ` 🌐 527 ` - Python Stream Processing ` 📝 2 months ago`
     * [streamparse](https://github.com/Parsely/streamparse) ` 🔥 1.4k ` ` 🌐 44 ` - Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL. ` 📝 2 months ago`
   
-## Distribution
+## Distribution [🔝](#readme)
 
 * [PyInstaller](https://github.com/pyinstaller/pyinstaller) ` 🔥 7.5k ` ` 🌐 12.8k ` - Freeze (package) Python programs into stand-alone executables ` 📝 5 days ago `
 * [Nuitka](http://nuitka.net/) ` 🔥 3.6k `  - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ` 📝 11 days ago `
@@ -614,13 +611,13 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [py2exe](http://www.py2exe.org/) ` 🔥 127 ` ` 🌐 928 ` - A distutils extension to create standalone windows programs from python scripts ` 📝 a month ago `
 * [py2app](http://pythonhosted.org/py2app/) ` 🔥 91 ` ` 🌐 3.4k ` - py2app is a Python setuptools command which will allow you to make standalone Mac OS X application bundles and plugins from Python scripts. 
   
-## Documentation
+## Documentation [🔝](#readme)
 
 * [sphinx](https://github.com/sphinx-doc/sphinx/) ` 🔥 3.7k ` ` 🌐 113k ` - Main repository for the Sphinx documentation builder ` 📝 4 days ago `
 * [pycco](https://github.com/pycco-docs/pycco) ` 🔥 725 ` ` 🌐 188 ` - Literate-style documentation generator. 
 * [pdoc](https://github.com/mitmproxy/pdoc) ` 🔥 690 ` ` 🌐 253 ` - A simple command line tool and library to auto generate API documentation for Python libraries. ` 📝 8 months ago `
   
-## Downloader
+## Downloader [🔝](#readme)
 
 * [youtube-dl](https://rg3.github.io/youtube-dl/) ` 🔥 84.9k `  - Command-line program to download videos from YouTube.com and other video sites ` 📝 4 days ago `
 * [you-get](https://you-get.org/) ` 🔥 38k `  - Dumb downloader that scrapes the web ` 📝 7 days ago `
@@ -628,12 +625,12 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [akshare](https://github.com/jindaxiang/akshare) ` 🔥 2.6k ` ` 🌐 34 ` - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 ` 📝 4 days ago `
 * [s4cmd](https://github.com/bloomreach/s4cmd) ` 🔥 1.1k `  - Super S3 command line tool ` 📝 2 months ago `
   
-## E-commerce
+## E-commerce [🔝](#readme)
 
 * [saleor](http://getsaleor.com/) ` 🔥 9.8k `  - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS. ` 📝 7 days ago `
 * [django-oscar](http://oscarcommerce.com/) ` 🔥 4.7k ` ` 🌐 632 ` - Domain-driven e-commerce for Django ` 📝 7 days ago `
 * [django-shop](https://github.com/awesto/django-shop) ` 🔥 2.4k ` ` 🌐 144 ` - A Django based shop system ` 📝 11 days ago `
-* [shoop](https://www.shuup.com/en/) ` 🔥 1.4k ` ` 🌐 52 ` - E-Commerce Platform ` 📝 6 days ago `
+* [shoop](https://www.shuup.com/en/) ` 🔥 1.4k ` ` 🌐 52 ` - E-Commerce Platform ` 📝 7 days ago `
 * [merchant](https://github.com/agiliq/merchant) ` 🔥 959 ` ` 🌐 19 ` - A Django app to accept payments from various payment processors via Pluggable backends. ` 📝 5 years ago `
 * [Cartridge](https://github.com/stephenmcd/cartridge) ` 🔥 621 ` ` 🌐 160 ` - Ecommerce for Mezzanine ` 📝 a year ago `
 * [forex-python](https://github.com/MicroPyramid/forex-python) ` 🔥 352 ` ` 🌐 535 ` - Foreign exchange rates, Bitcoin price index and currency conversion using ratesapi.io ` 📝 a year ago `
@@ -641,65 +638,65 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [money](https://github.com/carlospalol/money) ` 🔥 191 ` ` 🌐 158 ` - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution. ` 📝 4 years ago `
 * [python-currencies](https://github.com/Alir3z4/python-currencies) ` 🔥 47 `  - Display money format and its filthy currencies, for all money lovers out there. 
   
-## Editor Plugins and IDEs
+## Editor Plugins and IDEs [🔝](#readme)
 
   
-* #### Emacs
+* #### Emacs [🔝](#readme)
 
     * [elpy](https://github.com/jorgenschaefer/elpy) ` 🔥 1.6k ` ` 🌐 192 ` - Emacs Python Development Environment ` 📝 17 days ago`
   
-* #### Sublime Text
+* #### Sublime Text [🔝](#readme)
 
     * [anaconda](https://github.com/DamnWidget/anaconda) ` 🔥 2.1k `  - Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3 ` 📝 2 months ago`
     * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ` 🔥 908 `  - awesome Python autocompletion with SublimeText ` 📝 2 months ago`
   
-* #### Vim
+* #### Vim [🔝](#readme)
 
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) ` 🔥 22.3k `  - A code-completion engine for Vim ` 📝 5 days ago`
     * [python-mode](https://github.com/python-mode/python-mode) ` 🔥 5.1k `  - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. ` 📝 a month ago`
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) ` 🔥 4.6k `  - Using the jedi autocompletion library for VIM. ` 📝 5 months ago`
   
-* #### Visual Studio
+* #### Visual Studio [🔝](#readme)
 
     * [PTVS](https://github.com/Microsoft/PTVS) ` 🔥 2.3k `  - Python Tools for Visual Studio ` 📝 a month ago`
   
-* #### Visual Studio Code
+* #### Visual Studio Code [🔝](#readme)
 
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)   
   
-* #### IDE
+* #### IDE [🔝](#readme)
 
     * [spyder](https://github.com/spyder-ide/spyder) ` 🔥 5.8k ` ` 🌐 16.2k ` - Official repository for Spyder - The Scientific Python Development Environment ` 📝 4 days ago`
     * [PyCharm](https://www.jetbrains.com/pycharm/)   
   
-## Email
+## Email [🔝](#readme)
 
   
-* #### Mail Servers
+* #### Mail Servers [🔝](#readme)
 
     * [modoboa](https://github.com/modoboa/modoboa) ` 🔥 1.7k ` ` 🌐 19 ` - Mail hosting made simple ` 📝 6 days ago`
     * [salmon](https://github.com/moggers87/salmon) ` 🔥 459 ` ` 🌐 9 ` - A Python Mail Server ` 📝 9 days ago`
   
-* #### Clients
+* #### Clients [🔝](#readme)
 
     * [yagmail](https://github.com/kootenpv/yagmail) ` 🔥 1.9k ` ` 🌐 958 ` - Send email in Python conveniently for gmail using yagmail ` 📝 2 months ago`
     * [imbox](https://github.com/martinrusev/imbox) ` 🔥 968 ` ` 🌐 77 ` - Python IMAP for Human beings ` 📝 3 months ago`
   
-* #### Others
+* #### Others [🔝](#readme)
 
     * [flanker](https://github.com/mailgun/flanker) ` 🔥 1.4k ` ` 🌐 119 ` - Python email address and Mime parsing library ` 📝 9 months ago`
     * [mailer](https://github.com/marrow/mailer) ` 🔥 219 `  - A light-weight, modular, message representation and mail delivery framework for Python. ` 📝 8 months ago`
   
-## Enterprise Application Integrations
+## Enterprise Application Integrations [🔝](#readme)
 
 * [Zato](https://zato.io)   
   
-## Environment Management
+## Environment Management [🔝](#readme)
 
 * [pyenv](https://github.com/pyenv/pyenv) ` 🔥 21.7k `  - Simple Python version management ` 📝 7 days ago `
 * [virtualenv](https://github.com/pypa/virtualenv) ` 🔥 3.8k `  - Virtual Python Environment builder ` 📝 8 days ago `
   
-## Files
+## Files [🔝](#readme)
 
 * [watchdog](https://github.com/gorakhargosh/watchdog) ` 🔥 4.5k ` ` 🌐 26.3k ` - Python library and shell utilities to monitor filesystem events. 
 * [python-magic](https://github.com/ahupp/python-magic) ` 🔥 1.8k ` ` 🌐 10.2k ` - A python wrapper for libmagic ` 📝 6 days ago `
@@ -709,23 +706,23 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [mimetypes](https://docs.python.org/3/library/mimetypes.html)   
 * [pathlib](https://docs.python.org/3/library/pathlib.html)   
   
-## Foreign Function Interface
+## Foreign Function Interface [🔝](#readme)
 
 * [SWIG](http://www.swig.org/Doc1.3/Python.html) ` 🔥 3.7k `  - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. 
 * [PyCUDA](https://mathema.tician.de/software/pycuda/) ` 🔥 1k ` ` 🌐 623 ` - CUDA integration for Python, plus shiny features ` 📝 10 days ago `
 * [cffi](https://pypi.org/project/cffi/)   
 * [ctypes](https://docs.python.org/3/library/ctypes.html)   
   
-## Forms
+## Forms [🔝](#readme)
 
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) ` 🔥 4.1k ` ` 🌐 50.7k ` - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. ` 📝 22 days ago `
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3) ` 🔥 2.2k `  - Bootstrap 3 integration with Django. ` 📝 2 months ago `
-* [WTForms](https://github.com/wtforms/wtforms) ` 🔥 1.2k ` ` 🌐 79k ` - A flexible forms validation and rendering library for Python. ` 📝 24 days ago `
+* [WTForms](https://github.com/wtforms/wtforms) ` 🔥 1.2k ` ` 🌐 79k ` - A flexible forms validation and rendering library for Python. ` 📝 25 days ago `
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) ` 🔥 845 `  - Bootstrap 4 integration with Django. ` 📝 a month ago `
 * [Deform](https://github.com/Pylons/deform) ` 🔥 350 `  - A Python HTML form library. ` 📝 10 days ago `
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) ` 🔥 197 `  - A platform independent django form serializer 
   
-## Functional Programming
+## Functional Programming [🔝](#readme)
 
 * [Coconut](https://github.com/evhub/coconut) ` 🔥 3.1k `  - Simple, elegant, Pythonic functional programming. ` 📝 a year ago `
 * [fn.py](https://github.com/kachayev/fn.py) ` 🔥 3.1k ` ` 🌐 273 ` - Functional programming in Python: implementation of missing features to enjoy FP ` 📝 6 years ago `
@@ -735,7 +732,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [returns](https://github.com/dry-python/returns) ` 🔥 1.5k ` ` 🌐 38 ` - Make your functions return something meaningful, typed, and safe! ` 📝 7 days ago `
 * [CyToolz](https://github.com/pytoolz/cytoolz/) ` 🔥 746 `  - Cython implementation of Toolz: High performance functional utilities ` 📝 3 months ago `
   
-## GUI Development
+## GUI Development [🔝](#readme)
 
 * [kivy](https://kivy.org/) ` 🔥 12.3k ` ` 🌐 3.4k ` - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS ` 📝 4 days ago `
 * [Gooey](https://github.com/chriskiehl/Gooey) ` 🔥 10.7k ` ` 🌐 286 ` - Turn (almost) any Python command line program into a full GUI application with one line ` 📝 18 days ago `
@@ -754,14 +751,14 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [PyQt](https://riverbankcomputing.com/software/pyqt/intro)   
 * [Tkinter](https://wiki.python.org/moin/TkInter)   
   
-## GraphQL
+## GraphQL [🔝](#readme)
 
 * [graphene](https://github.com/graphql-python/graphene/) ` 🔥 6.2k ` ` 🌐 7k ` - GraphQL framework for Python ` 📝 a month ago `
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) ` 🔥 72 ` ` 🌐 6 ` - ASGI support for the Tartiflette GraphQL engine ` 📝 4 months ago `
 * [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) ` 🔥 51 ` ` 🌐 26 ` - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project. ` 📝 6 days ago `
 * [tartiflette](https://tartiflette.io)   
   
-## Game Development
+## Game Development [🔝](#readme)
 
 * [Pygame](http://www.pygame.org/news.html) ` 🔥 2.9k ` ` 🌐 23.9k ` - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL. ` 📝 5 days ago `
 * [Panda3D](https://www.panda3d.org/) ` 🔥 2.5k `  - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU ` 📝 5 days ago `
@@ -773,7 +770,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre)   
 * [PySDL2](https://pysdl2.readthedocs.io)   
   
-## Geolocation
+## Geolocation [🔝](#readme)
 
 * [geopy](https://github.com/geopy/geopy) ` 🔥 3.1k ` ` 🌐 14.3k ` - Geocoding library for Python. ` 📝 3 months ago `
 * [django-countries](https://github.com/SmileyChris/django-countries) ` 🔥 910 `  - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models. ` 📝 12 days ago `
@@ -782,7 +779,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [GeoIP](https://github.com/maxmind/geoip-api-python) ` 🔥 214 `  - GeoIP Legacy Python API ` 📝 6 months ago `
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/)   
   
-## HTML Manipulation
+## HTML Manipulation [🔝](#readme)
 
 * [xmltodict](https://github.com/martinblech/xmltodict) ` 🔥 4.2k ` ` 🌐 18.1k ` - Python module that makes working with XML feel like you are working with JSON ` 📝 8 months ago `
 * [bleach](https://github.com/mozilla/bleach) ` 🔥 2k ` ` 🌐 97.7k ` - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes ` 📝 3 months ago `
@@ -796,16 +793,16 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [lxml](http://lxml.de/)   
 * [WeasyPrint](http://weasyprint.org)   
   
-## HTTP Clients
+## HTTP Clients [🔝](#readme)
 
-* [requests](https://github.com/psf/requests) ` 🔥 44.1k `  - A simple, yet elegant HTTP library. ` 📝 8 days ago `
+* [requests](https://github.com/psf/requests) ` 🔥 44.1k `  - A simple, yet elegant HTTP library. ` 📝 9 days ago `
 * [httpx](https://github.com/encode/httpx) ` 🔥 6.1k ` ` 🌐 3.1k ` - A next generation HTTP client for Python. ` 📝 5 days ago `
 * [grequests](https://github.com/spyoungtech/grequests) ` 🔥 3.6k ` ` 🌐 2k ` - Requests + Gevent = <3 ` 📝 8 months ago `
 * [urllib3](https://github.com/shazow/urllib3) ` 🔥 2.5k ` ` 🌐 432k ` - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more. ` 📝 7 days ago `
 * [treq](https://github.com/twisted/treq) ` 🔥 505 ` ` 🌐 678 ` - Python requests like API built on top of Twisted's HTTP client. 
 * [httplib2](https://github.com/httplib2/httplib2) ` 🔥 392 ` ` 🌐 61.5k ` - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community. ` 📝 3 months ago `
   
-## Hardware
+## Hardware [🔝](#readme)
 
 * [scapy](https://github.com/secdev/scapy) ` 🔥 5.8k ` ` 🌐 3.7k ` - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. ` 📝 4 days ago `
 * [keyboard](https://github.com/boppreh/keyboard) ` 🔥 2.2k ` ` 🌐 2.2k ` - Hook and simulate global keyboard events on Windows and Linux. ` 📝 5 months ago `
@@ -815,7 +812,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [wifi](https://github.com/rockymeza/wifi) ` 🔥 275 ` ` 🌐 265 ` - [unmaintained] WiFi tools for linux ` 📝 4 years ago `
 * [Pingo](http://www.pingo.io/) ` 🔥 252 `  - Generic API for controlling boards with programmable IO pins ` 📝 3 years ago `
   
-## Image Processing
+## Image Processing [🔝](#readme)
 
 * [thumbor](https://github.com/thumbor/thumbor) ` 🔥 8.1k ` ` 🌐 229 ` - thumbor is an open-source photo thumbnail service by globo.com ` 📝 12 days ago `
 * [pillow](https://github.com/python-pillow/Pillow) ` 🔥 8k ` ` 🌐 356k ` - The friendly PIL fork (Python Imaging Library) ` 📝 5 days ago `
@@ -833,7 +830,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [pygram](https://github.com/ajkumar25/pygram) ` 🔥 97 `  - Instagram-like image filters. 
 * [imgSeek](https://sourceforge.net/projects/imgseek/)   
   
-## Implementations
+## Implementations [🔝](#readme)
 
 * [CPython](https://github.com/python/cpython) ` 🔥 35k `  - The Python programming language ` 📝 4 days ago `
 * [MicroPython](https://github.com/micropython/micropython) ` 🔥 11.5k `  - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems ` 📝 4 days ago `
@@ -849,18 +846,18 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [Jython](https://hg.python.org/jython) ` 🔥 258 `  - Jython 3 sandbox ` 📝 4 months ago `
 * [PyPy](https://foss.heptapod.net/pypy/pypy) ` 🔥 178 `  - The unofficial GitHub mirror of PyPy ` 📝 6 days ago `
   
-## Interactive Interpreter
+## Interactive Interpreter [🔝](#readme)
 
 * [ptpython](https://github.com/jonathanslenders/ptpython) ` 🔥 3.8k ` ` 🌐 1.2k ` - A better Python REPL ` 📝 10 days ago `
 * [bpython](https://github.com/bpython/bpython) ` 🔥 1.7k ` ` 🌐 3.3k ` - bpython - A fancy curses interface to the Python interactive interpreter ` 📝 7 days ago `
 * [Jupyter Notebook (IPython)](https://jupyter.org)   
   
-## Internationalization
+## Internationalization [🔝](#readme)
 
 * [Babel](http://babel.pocoo.org/en/latest/) ` 🔥 946 ` ` 🌐 66k ` - The official repository for Babel, the Python Internationalization Library ` 📝 14 days ago `
 * [PyICU](https://github.com/ovalhub/pyicu) ` 🔥 123 `  - PyICU project repository 
   
-## Job Scheduler
+## Job Scheduler [🔝](#readme)
 
 * [Airflow](https://airflow.apache.org/) ` 🔥 19.6k `  - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows ` 📝 4 days ago `
 * [schedule](https://github.com/dbader/schedule) ` 🔥 8k ` ` 🌐 8.8k ` - Python job scheduling for humans. ` 📝 10 days ago `
@@ -874,7 +871,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [django-schedule](https://github.com/thauber/django-schedule) ` 🔥 786 `  - A calendaring app for Django. It is now stable, Please feel free to use it now. Active development has been taken over by bartekgorny. ` 📝 5 years ago `
 * [gunnery](https://github.com/gunnery/gunnery) ` 🔥 721 `  - Remote task execution tool ` 📝 5 years ago `
   
-## Logging
+## Logging [🔝](#readme)
 
 * [loguru](https://github.com/Delgan/loguru) ` 🔥 7.6k ` ` 🌐 3.8k ` - Python logging made (stupidly) simple ` 📝 2 months ago `
 * [logbook](http://logbook.readthedocs.io/en/stable/) ` 🔥 1.4k ` ` 🌐 2.1k ` - A cool logging replacement for Python. ` 📝 a year ago `
@@ -882,7 +879,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [sentry-python](https://github.com/getsentry/sentry-python) ` 🔥 816 ` ` 🌐 7.6k ` - The new Python SDK for Sentry.io ` 📝 8 days ago `
 * [logging](https://docs.python.org/3/library/logging.html)   
   
-## Machine Learning
+## Machine Learning [🔝](#readme)
 
 * [scikit-learn](http://scikit-learn.org/) ` 🔥 43.4k ` ` 🌐 168k ` - scikit-learn: machine learning in Python ` 📝 6 days ago `
 * [gym](https://github.com/openai/gym) ` 🔥 22.9k ` ` 🌐 15.8k ` - A toolkit for developing and comparing reinforcement learning algorithms. ` 📝 a month ago `
@@ -894,7 +891,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) ` 🔥 159 `  - lightweight python wrapper for vowpal wabbit 
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)   
   
-## Microsoft Windows
+## Microsoft Windows [🔝](#readme)
 
 * [PyWin32](https://github.com/mhammond/pywin32) ` 🔥 2.7k ` ` 🌐 28.5k ` - Python for Windows (pywin32) Extensions ` 📝 11 days ago `
 * [PythonNet](https://github.com/pythonnet/pythonnet) ` 🔥 2.4k ` ` 🌐 11 ` - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. ` 📝 5 days ago `
@@ -902,7 +899,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/)   
 * [WinPython](https://winpython.github.io/)   
   
-## Miscellaneous
+## Miscellaneous [🔝](#readme)
 
 * [magenta](https://github.com/magenta/magenta) ` 🔥 16.1k ` ` 🌐 246 ` - Magenta: Music and Art Generation with Machine Intelligence ` 📝 16 days ago `
 * [boltons](https://github.com/mahmoud/boltons) ` 🔥 5.3k `  - Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library. Nothing like Michael Bolton. ` 📝 25 days ago `
@@ -911,24 +908,21 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) ` 🔥 920 ` ` 🌐 558 ` - A simple but flexible plugin system for Python. ` 📝 2 years ago `
 * [tryton](http://www.tryton.org/)   
   
-## Natural Language Processing
-
-  
-## Network Virtualization
+## Network Virtualization [🔝](#readme)
 
 * [mininet](https://github.com/mininet/mininet) ` 🔥 3.7k ` ` 🌐 77 ` - Emulator for rapid prototyping of Software Defined Networks ` 📝 4 days ago `
 * [napalm](https://github.com/napalm-automation/napalm) ` 🔥 1.6k ` ` 🌐 494 ` - Network Automation and Programmability Abstraction Layer with Multivendor support ` 📝 21 days ago `
 * [pox](https://github.com/noxrepo/pox) ` 🔥 512 `  - The POX network software platform ` 📝 7 months ago `
   
-## News Feed
+## News Feed [🔝](#readme)
 
 * [Stream Framework](https://github.com/tschellenbach/Stream-Framework) ` 🔥 4.4k `  - Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology: 
 * [django-activity-stream](https://github.com/justquick/django-activity-stream) ` 🔥 1.8k ` ` 🌐 553 ` - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams. ` 📝 a month ago `
   
-## ORM
+## ORM [🔝](#readme)
 
   
-* #### Relational Databases
+* #### Relational Databases [🔝](#readme)
 
     * [peewee](https://github.com/coleifer/peewee) ` 🔥 8k ` ` 🌐 11.1k ` - a small, expressive orm -- supports postgresql, mysql and sqlite ` 📝 21 days ago`
     * [dataset](https://github.com/pudo/dataset) ` 🔥 3.9k ` ` 🌐 1.6k ` - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. ` 📝 a month ago`
@@ -940,44 +934,44 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [SQLAlchemy](https://www.sqlalchemy.org/)   
     * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)   
   
-* #### NoSQL Databases
+* #### NoSQL Databases [🔝](#readme)
 
     * [mongoengine](https://github.com/MongoEngine/mongoengine) ` 🔥 3.3k ` ` 🌐 11.4k ` - A Python Object-Document-Mapper for working with MongoDB ` 📝 4 days ago`
     * [PynamoDB](https://github.com/pynamodb/PynamoDB) ` 🔥 1.4k ` ` 🌐 598 ` - A pythonic interface to Amazon's DynamoDB ` 📝 a month ago`
     * [redisco](https://github.com/kiddouk/redisco) ` 🔥 432 `  - A Python Library for Simple Models and Containers Persisted in Redis ` 📝 5 years ago`
     * [hot-redis](https://github.com/stephenmcd/hot-redis) ` 🔥 266 `  - Rich Python data types for Redis 
   
-## Package Management
+## Package Management [🔝](#readme)
 
 * [poetry](https://github.com/sdispater/poetry) ` 🔥 13.2k `  - Python dependency management and packaging made easy. ` 📝 24 days ago `
 * [conda](https://github.com/conda/conda/) ` 🔥 3.9k `  - OS-agnostic, system-level binary package manager and ecosystem ` 📝 7 days ago `
 * [pip](https://pip.pypa.io/en/stable/)   
   
-## Package Repositories
+## Package Repositories [🔝](#readme)
 
 * [warehouse](https://github.com/pypa/warehouse) ` 🔥 2.6k `  - The Python Package Index ` 📝 15 days ago `
 * [devpi](https://github.com/devpi/devpi) ` 🔥 427 ` ` 🌐 120 ` - Python PyPi staging server and packaging, testing, release tool ` 📝 9 days ago `
 * [localshop](https://github.com/jazzband/localshop) ` 🔥 370 ` ` 🌐 2 ` - local pypi server (custom packages and auto-mirroring of pypi) ` 📝 5 months ago `
 * [bandersnatch](https://github.com/pypa/bandersnatch/) ` 🔥 205 `  - A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/ ` 📝 4 days ago `
   
-## Penetration Testing
+## Penetration Testing [🔝](#readme)
 
 * [sqlmap](https://github.com/sqlmapproject/sqlmap) ` 🔥 18.9k `  - Automatic SQL injection and database takeover tool ` 📝 7 days ago `
 * [fsociety](https://github.com/Manisso/fsociety) ` 🔥 6.3k `  - fsociety Hacking Tools Pack – A Penetration Testing Framework ` 📝 2 months ago `
 * [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) ` 🔥 6k `  - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. ` 📝 6 months ago `
   
-## Permissions
+## Permissions [🔝](#readme)
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) ` 🔥 2.8k ` ` 🌐 3.6k ` - Per object permissions for Django ` 📝 2 months ago `
 * [django-rules](https://github.com/dfunckt/django-rules) ` 🔥 1.2k ` ` 🌐 531 ` - Awesome Django authorization, without the database ` 📝 a year ago `
   
-## Processes
+## Processes [🔝](#readme)
 
 * [sh](https://github.com/amoffat/sh) ` 🔥 5.5k ` ` 🌐 5.7k ` - Python process launching ` 📝 2 months ago `
 * [delegator.py](https://github.com/amitt001/delegator.py) ` 🔥 1.5k `  - Subprocesses for Humans 2.0. ` 📝 2 years ago `
 * [sarge](https://sarge.readthedocs.io/en/latest/)   
   
-## Recommender Systems
+## Recommender Systems [🔝](#readme)
 
 * [annoy](https://github.com/spotify/annoy) ` 🔥 7.9k ` ` 🌐 1.3k ` - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk ` 📝 14 days ago `
 * [Surprise](https://github.com/NicolasHug/Surprise) ` 🔥 4.6k ` ` 🌐 816 ` - A Python scikit for building and analyzing recommender systems ` 📝 4 months ago `
@@ -988,28 +982,25 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [tensorrec](https://github.com/jfkirk/tensorrec) ` 🔥 1.1k ` ` 🌐 21 ` - A TensorFlow recommendation algorithm and framework in Python. ` 📝 10 months ago `
 * [fastFM](https://github.com/ibayer/fastFM) ` 🔥 883 ` ` 🌐 69 ` - fastFM: A Library for Factorization Machines ` 📝 9 months ago `
   
-## Refactoring
+## RESTful API [🔝](#readme)
 
   
-## RESTful API
-
-  
-* #### Django
+* #### Django [🔝](#readme)
 
     * [django-rest-framework](http://www.django-rest-framework.org/)   
     * [django-tastypie](http://tastypieapi.org/)   
   
-* #### Flask
+* #### Flask [🔝](#readme)
 
     * [eve](https://github.com/pyeve/eve) ` 🔥 6.2k ` ` 🌐 881 ` - REST API framework designed for human beings ` 📝 13 days ago`
     * [flask-restful](https://github.com/flask-restful/flask-restful) ` 🔥 5.8k ` ` 🌐 48k ` - Simple framework for creating REST APIs ` 📝 2 months ago`
     * [flask-api](https://github.com/flask-api/flask-api) ` 🔥 1.2k ` ` 🌐 3.9k ` - Browsable web APIs for Flask. ` 📝 a month ago`
   
-* #### Pyramid
+* #### Pyramid [🔝](#readme)
 
     * [cornice](https://github.com/Cornices/cornice) ` 🔥 361 ` ` 🌐 568 ` - Build Web Services with Pyramid. ` 📝 4 months ago`
   
-* #### Framework agnostic
+* #### Framework agnostic [🔝](#readme)
 
     * [fastapi](https://github.com/tiangolo/fastapi) ` 🔥 24.1k `  - FastAPI framework, high performance, easy to learn, fast to code, ready for production ` 📝 4 days ago`
     * [sanic](https://github.com/huge-success/sanic) ` 🔥 14.3k ` ` 🌐 4.1k ` - Async Python 3.6+ web server/framework | Build fast. Run fast. ` 📝 8 days ago`
@@ -1019,17 +1010,17 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [sandman2](https://github.com/jeffknupp/sandman2) ` 🔥 1.6k ` ` 🌐 14 ` - Automatically generate a RESTful API service for your legacy database. No code required! 
     * [vibora](https://vibora.io/)   
   
-## Robotics
+## Robotics [🔝](#readme)
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) ` 🔥 10.9k `  - Python sample codes for robotics algorithms. ` 📝 10 days ago `
 * [rospy](http://wiki.ros.org/rospy)   
   
-## RPC Servers
+## RPC Servers [🔝](#readme)
 
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) ` 🔥 2.7k ` ` 🌐 384 ` - zerorpc for python ` 📝 7 months ago `
 * [RPyC](https://github.com/tomerfiliba/rpyc) ` 🔥 946 ` ` 🌐 662 ` - RPyC (Remote Python Call) - A transparent and symmetric RPC library for python ` 📝 20 days ago `
   
-## Science
+## Science [🔝](#readme)
 
 * [Zipline](https://github.com/quantopian/zipline) ` 🔥 12.9k ` ` 🌐 633 ` - Zipline, a Pythonic Algorithmic Trading Library ` 📝 2 months ago `
 * [SymPy](https://github.com/sympy/sympy) ` 🔥 7.6k ` ` 🌐 26.2k ` - A computer algebra system written in pure Python ` 📝 4 days ago `
@@ -1053,7 +1044,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [SciPy](https://www.scipy.org/)   
 * [SimPy](https://gitlab.com/team-simpy/simpy)   
   
-## Search
+## Search [🔝](#readme)
 
 * [django-haystack](https://github.com/django-haystack/django-haystack) ` 🔥 3.1k ` ` 🌐 6.4k ` - Modular search for Django ` 📝 4 months ago `
 * [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) ` 🔥 3.1k ` ` 🌐 3.8k ` - High level Python client for Elasticsearch ` 📝 9 days ago `
@@ -1061,30 +1052,30 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)   
 * [whoosh](http://whoosh.readthedocs.io/en/latest/)   
   
-## Serialization
+## Serialization [🔝](#readme)
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) ` 🔥 5.2k ` ` 🌐 21.5k ` - A lightweight library for converting complex objects to and from simple Python datatypes. ` 📝 10 days ago `
 * [ultrajson](https://github.com/esnme/ultrajson) ` 🔥 3.1k ` ` 🌐 17.3k ` - Ultra fast JSON decoder and encoder written in C with Python bindings ` 📝 a month ago `
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) ` 🔥 406 ` ` 🌐 795 ` - Python wrapper around rapidjson ` 📝 5 days ago `
 * [pysimdjson](https://github.com/TkTech/pysimdjson) ` 🔥 402 `  - Python bindings for the simdjson project. ` 📝 15 days ago `
   
-## Serverless Frameworks
+## Serverless Frameworks [🔝](#readme)
 
 * [Zappa](https://github.com/Miserlou/Zappa) ` 🔥 11.3k ` ` 🌐 2.4k ` - Serverless Python ` 📝 2 months ago `
 * [python-lambda](https://github.com/nficano/python-lambda) ` 🔥 1.2k ` ` 🌐 133 ` - A toolkit for developing and deploying serverless Python code in AWS Lambda. ` 📝 5 months ago `
   
-## Shell
+## Shell [🔝](#readme)
 
-* [xonsh](https://github.com/xonsh/xonsh/) ` 🔥 4.1k ` ` 🌐 126 ` - Python-powered, cross-platform, Unix-gazing shell ` 📝 14 days ago `
+* [xonsh](https://github.com/xonsh/xonsh/) ` 🔥 4.1k ` ` 🌐 126 ` - Python-powered, cross-platform, Unix-gazing shell ` 📝 15 days ago `
   
-## Specific Formats Processing
+## Specific Formats Processing [🔝](#readme)
 
   
-* #### General
+* #### General [🔝](#readme)
 
     * [tablib](https://github.com/jazzband/tablib) ` 🔥 3.8k ` ` 🌐 8.6k ` - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c. ` 📝 7 days ago`
   
-* #### Office
+* #### Office [🔝](#readme)
 
     * [python-docx](https://github.com/python-openxml/python-docx) ` 🔥 2.5k `  - Create and modify Word documents with Python ` 📝 2 years ago`
     * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) ` 🔥 2.4k ` ` 🌐 29.1k ` - A Python module for creating Excel XLSX files. ` 📝 2 months ago`
@@ -1096,30 +1087,30 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [pyexcel](https://github.com/pyexcel/pyexcel) ` 🔥 874 ` ` 🌐 1.6k ` - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files ` 📝 10 days ago`
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)   
   
-* #### PDF
+* #### PDF [🔝](#readme)
 
     * [PDFMiner](https://github.com/euske/pdfminer) ` 🔥 4.4k ` ` 🌐 1.7k ` - Python PDF Parser (Not actively maintained). Check out pdfminer.six. ` 📝 a year ago`
     * [PyPDF2](https://github.com/mstamy2/PyPDF2) ` 🔥 3.4k ` ` 🌐 12.6k ` - A utility to read and write PDFs with Python ` 📝 2 years ago`
     * [ReportLab](https://www.reportlab.com/opensource/)   
   
-* #### Markdown
+* #### Markdown [🔝](#readme)
 
     * [Python-Markdown](https://github.com/waylan/Python-Markdown) ` 🔥 2.3k ` ` 🌐 108k ` - A Python implementation of John Gruber’s Markdown with Extension support. ` 📝 9 days ago`
     * [Mistune](https://github.com/lepture/mistune) ` 🔥 1.9k ` ` 🌐 86.3k ` - A fast yet powerful Python Markdown parser with renderers and plugins. ` 📝 22 days ago`
   
-* #### YAML
+* #### YAML [🔝](#readme)
 
     * [PyYAML](http://pyyaml.org/)   
   
-* #### CSV
+* #### CSV [🔝](#readme)
 
     * [csvkit](https://github.com/wireservice/csvkit) ` 🔥 4.4k ` ` 🌐 759 ` - A suite of utilities for converting to and working with CSV, the king of tabular file formats. ` 📝 2 months ago`
   
-* #### Archive
+* #### Archive [🔝](#readme)
 
     * [unp](https://github.com/mitsuhiko/unp) ` 🔥 375 ` ` 🌐 5 ` - Unpacks things. ` 📝 6 years ago`
   
-## Static Site Generator
+## Static Site Generator [🔝](#readme)
 
 * [mkdocs](https://github.com/mkdocs/mkdocs/) ` 🔥 11.2k ` ` 🌐 9.2k ` - Project documentation with Markdown. ` 📝 10 days ago `
 * [pelican](https://github.com/getpelican/pelican) ` 🔥 10.1k ` ` 🌐 4.5k ` - Static site generator that supports Markdown and reST syntax. Powered by Python. ` 📝 16 days ago `
@@ -1127,11 +1118,11 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [nikola](https://github.com/getnikola/nikola) ` 🔥 2k ` ` 🌐 336 ` - A static website and blog generator ` 📝 5 days ago `
 * [makesite](https://github.com/sunainapai/makesite) ` 🔥 1.5k `  - Simple, lightweight, and magic-free static site/blog generator for Python coders ` 📝 a year ago `
   
-## Tagging
+## Tagging [🔝](#readme)
 
 * [django-taggit](https://github.com/jazzband/django-taggit) ` 🔥 2.5k `  - Simple tagging for django ` 📝 2 months ago `
   
-## Task Queues
+## Task Queues [🔝](#readme)
 
 * [rq](https://github.com/rq/rq) ` 🔥 7.4k ` ` 🌐 6.8k ` - Simple job queues for Python ` 📝 19 days ago `
 * [huey](https://github.com/coleifer/huey) ` 🔥 3.3k ` ` 🌐 630 ` - a little task queue for python ` 📝 a month ago `
@@ -1139,16 +1130,16 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [mrq](https://github.com/pricingassistant/mrq) ` 🔥 826 ` ` 🌐 23 ` - Mr. Queue - A distributed worker task queue in Python using Redis & gevent ` 📝 4 days ago `
 * [celery](https://docs.celeryproject.org/en/stable/)   
   
-## Template Engine
+## Template Engine [🔝](#readme)
 
 * [Jinja2](https://github.com/pallets/jinja) ` 🔥 7.4k ` ` 🌐 515k ` - A very fast and expressive template engine. ` 📝 17 days ago `
 * [Genshi](https://genshi.edgewall.org/)   
 * [Mako](http://www.makotemplates.org/)   
   
-## Testing
+## Testing [🔝](#readme)
 
   
-* #### Testing Frameworks
+* #### Testing Frameworks [🔝](#readme)
 
     * [Robot Framework](https://github.com/robotframework/robotframework) ` 🔥 5.3k ` ` 🌐 2.9k ` - Generic automation framework for acceptance testing and RPA ` 📝 7 days ago`
     * [hypothesis](https://github.com/HypothesisWorks/hypothesis) ` 🔥 4.8k ` ` 🌐 6.6k ` - Hypothesis is a powerful, flexible, and easy to use library for property-based testing. ` 📝 7 days ago`
@@ -1156,13 +1147,13 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [pytest](https://docs.pytest.org/en/latest/)   
     * [unittest](https://docs.python.org/3/library/unittest.html)   
   
-* #### Test Runners
+* #### Test Runners [🔝](#readme)
 
     * [green](https://github.com/CleanCut/green) ` 🔥 677 ` ` 🌐 490 ` - Green is a clean, colorful, fast python test runner. ` 📝 4 days ago`
     * [mamba](http://nestorsalceda.github.io/mamba/)   
     * [tox](https://tox.readthedocs.io/en/latest/)   
   
-* #### GUI / Web Testing
+* #### GUI / Web Testing [🔝](#readme)
 
     * [locust](https://github.com/locustio/locust) ` 🔥 14.5k ` ` 🌐 789 ` - Scalable user load testing tool written in Python ` 📝 6 days ago`
     * [PyAutoGUI](https://github.com/asweigart/pyautogui) ` 🔥 4.6k ` ` 🌐 5k ` - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. ` 📝 2 months ago`
@@ -1171,7 +1162,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [Schemathesis](https://github.com/kiwicom/schemathesis) ` 🔥 675 `  - A modern API testing tool for web applications built with Open API and GraphQL specifications. ` 📝 6 days ago`
     * [Selenium](https://pypi.org/project/selenium/)   
   
-* #### Mock
+* #### Mock [🔝](#readme)
 
     * [responses](https://github.com/getsentry/responses) ` 🔥 3k ` ` 🌐 7.3k ` - A utility for mocking out the Python Requests library. ` 📝 11 days ago`
     * [freezegun](https://github.com/spulec/freezegun) ` 🔥 2.7k ` ` 🌐 6.4k ` - Let your Python tests travel through time ` 📝 a month ago`
@@ -1182,27 +1173,27 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [doublex](https://pypi.org/project/doublex/)   
     * [mock](https://docs.python.org/3/library/unittest.mock.html)   
   
-* #### Object Factories
+* #### Object Factories [🔝](#readme)
 
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) ` 🔥 2.3k `  - A test fixtures replacement for Python ` 📝 8 days ago`
     * [model_mommy](https://github.com/vandersonmota/model_mommy) ` 🔥 933 `  - No longer maintained, please migrate to model_bakery ` 📝 a year ago`
     * [mixer](https://github.com/klen/mixer) ` 🔥 715 `  - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. ` 📝 2 years ago`
   
-* #### Code Coverage
+* #### Code Coverage [🔝](#readme)
 
     * [coverage](https://pypi.org/project/coverage/)   
   
-* #### Fake Data
+* #### Fake Data [🔝](#readme)
 
     * [faker](https://github.com/joke2k/faker) ` 🔥 11.7k ` ` 🌐 20.9k ` - Faker is a Python package that generates fake data for you. ` 📝 8 days ago`
     * [mimesis](https://github.com/lk-geimfari/mimesis) ` 🔥 3.2k `  - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages. ` 📝 11 days ago`
     * [fake2db](https://github.com/emirozer/fake2db) ` 🔥 2k ` ` 🌐 12 ` - create custom test databases that are populated with fake data ` 📝 a year ago`
     * [radar](https://pypi.org/project/radar/)   
   
-## Text Processing
+## Text Processing [🔝](#readme)
 
   
-* #### General
+* #### General [🔝](#readme)
 
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) ` 🔥 7.7k ` ` 🌐 7k ` - Fuzzy String Matching in Python ` 📝 10 months ago`
     * [pypinyin](https://github.com/mozillazg/python-pinyin) ` 🔥 3k ` ` 🌐 895 ` - 汉字转拼音(pypinyin) ` 📝 a month ago`
@@ -1215,18 +1206,18 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [difflib](https://docs.python.org/3/library/difflib.html)   
     * [unidecode](https://pypi.org/project/Unidecode/)   
   
-* #### Slugify
+* #### Slugify [🔝](#readme)
 
     * [python-slugify](https://github.com/un33k/python-slugify) ` 🔥 947 ` ` 🌐 12.5k ` - Returns unicode slugs ` 📝 6 months ago`
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) ` 🔥 292 ` ` 🌐 1.6k ` - A slugifier that works in unicode ` 📝 2 years ago`
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify)   
   
-* #### Unique identifiers
+* #### Unique identifiers [🔝](#readme)
 
     * [shortuuid](https://github.com/skorokithakis/shortuuid) ` 🔥 1.4k ` ` 🌐 3.7k ` - A generator library for concise, unambiguous and URL-safe UUIDs. ` 📝 9 days ago`
     * [hashids](https://github.com/davidaurelio/hashids-python) ` 🔥 1.2k `  - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3 
   
-* #### Parser
+* #### Parser [🔝](#readme)
 
     * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ` 🔥 2.6k `  - Python port of Google's libphonenumber ` 📝 14 days ago`
     * [sqlparse](https://github.com/andialbrecht/sqlparse) ` 🔥 2.3k `  - A non-validating SQL parser module for Python ` 📝 6 days ago`
@@ -1236,7 +1227,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [python-nameparser](https://github.com/derek73/python-nameparser) ` 🔥 440 ` ` 🌐 554 ` - A simple Python module for parsing human names into their individual components ` 📝 4 months ago`
     * [pygments](http://pygments.org/)   
   
-## Third-party APIs
+## Third-party APIs [🔝](#readme)
 
 * [boto3](https://github.com/boto/boto3) ` 🔥 6k ` ` 🌐 83.9k ` - AWS SDK for Python ` 📝 6 days ago `
 * [gspread](https://github.com/burnash/gspread) ` 🔥 5.1k ` ` 🌐 7.9k ` - Google Sheets Python API ` 📝 2 months ago `
@@ -1246,20 +1237,20 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) ` 🔥 314 `  - WordPress models and views for Django. 
 * [apache-libcloud](https://libcloud.apache.org/)   
   
-## URL Manipulation
+## URL Manipulation [🔝](#readme)
 
 * [furl](https://github.com/gruns/furl) ` 🔥 1.9k `  - URL parsing and manipulation made easy. ` 📝 2 months ago `
 * [webargs](https://github.com/marshmallow-code/webargs) ` 🔥 1.1k ` ` 🌐 2k ` - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp. ` 📝 7 days ago `
 * [pyshorteners](https://github.com/ellisonleao/pyshorteners) ` 🔥 278 ` ` 🌐 462 ` - Generating short urls with python has never been easier ` 📝 5 months ago `
 * [purl](https://github.com/codeinthehole/purl) ` 🔥 247 ` ` 🌐 1.4k ` - A simple, immutable URL class with a clean API for interrogation and manipulation. ` 📝 2 years ago `
   
-## Video
+## Video [🔝](#readme)
 
 * [vidgear](https://github.com/abhiTronix/vidgear) ` 🔥 1.5k ` ` 🌐 67 ` - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features ` 📝 4 months ago `
 * [scikit-video](https://github.com/aizvorski/scikit-video) ` 🔥 102 `  - Video processing routines for SciPy ` 📝 5 years ago `
 * [moviepy](https://zulko.github.io/moviepy/)   
   
-## Web Asset Management
+## Web Asset Management [🔝](#readme)
 
 * [django-compressor](https://github.com/django-compressor/django-compressor) ` 🔥 2.4k `  - Compresses linked and inline javascript or CSS into a single cached file. ` 📝 a month ago `
 * [django-storages](https://github.com/jschneier/django-storages) ` 🔥 1.8k `  - https://django-storages.readthedocs.io/ ` 📝 a month ago `
@@ -1269,7 +1260,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [fanstatic](http://www.fanstatic.org/en/latest/)   
 * [fileconveyor](http://wimleers.com/fileconveyor)   
   
-## Web Content Extracting
+## Web Content Extracting [🔝](#readme)
 
 * [requests-html](https://github.com/psf/requests-html) ` 🔥 11.3k ` ` 🌐 3.2k ` - Pythonic HTML Parsing for Humans™ ` 📝 7 months ago `
 * [newspaper](https://github.com/codelucas/newspaper) ` 🔥 10.5k ` ` 🌐 2.1k ` - News, full-text, and article metadata extraction in Python 3. Advanced docs: ` 📝 4 months ago `
@@ -1281,7 +1272,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [lassie](https://github.com/michaelhelmick/lassie) ` 🔥 516 ` ` 🌐 18 ` - Web Content Retrieval for Humans™ ` 📝 10 months ago `
 * [micawber](https://github.com/coleifer/micawber) ` 🔥 510 ` ` 🌐 468 ` - a small library for extracting rich content from urls ` 📝 a month ago `
   
-## Web Crawling
+## Web Crawling [🔝](#readme)
 
 * [pyspider](https://github.com/binux/pyspider) ` 🔥 14.8k ` ` 🌐 280 ` - A Powerful Spider(Web Crawler) System in Python. ` 📝 4 months ago `
 * [portia](https://github.com/scrapinghub/portia) ` 🔥 8k ` ` 🌐 13 ` - Visual scraping for Scrapy ` 📝 a year ago `
@@ -1292,10 +1283,10 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [feedparser](https://pythonhosted.org/feedparser/)   
 * [scrapy](https://scrapy.org/)   
   
-## Web Frameworks
+## Web Frameworks [🔝](#readme)
 
   
-* #### Synchronous
+* #### Synchronous [🔝](#readme)
 
     * [Masonite](https://github.com/MasoniteFramework/masonite) ` 🔥 1.5k `  - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Slack channel questions: http://slack.masoniteproject.com 
     * [Django](https://www.djangoproject.com/)   
@@ -1306,17 +1297,17 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [Pyramid](https://pylonsproject.org/)   
     * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)   
   
-* #### Asynchronous
+* #### Asynchronous [🔝](#readme)
 
     * [Tornado](http://www.tornadoweb.org/en/latest/)   
   
-## WebSocket
+## WebSocket [🔝](#readme)
 
 * [channels](https://github.com/django/channels) ` 🔥 4.7k ` ` 🌐 9.7k ` - Developer-friendly asynchrony for Django ` 📝 10 days ago `
 * [websockets](https://github.com/aaugustin/websockets) ` 🔥 3.1k ` ` 🌐 25.8k ` - Library for building WebSocket servers and clients in Python ` 📝 5 days ago `
 * [autobahn-python](https://github.com/crossbario/autobahn-python) ` 🔥 2.2k ` ` 🌐 10.4k ` - WebSocket and WAMP in Python for Twisted and asyncio ` 📝 4 days ago `
   
-## WSGI Servers
+## WSGI Servers [🔝](#readme)
 
 * [gunicorn](https://github.com/benoitc/gunicorn) ` 🔥 7.3k ` ` 🌐 363k ` - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. ` 📝 3 months ago `
 * [werkzeug](https://github.com/pallets/werkzeug) ` 🔥 5.5k ` ` 🌐 416k ` - The comprehensive WSGI web application library. ` 📝 a month ago `
@@ -1324,13 +1315,10 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
 * [waitress](https://github.com/Pylons/waitress) ` 🔥 875 `  - Waitress - A WSGI server for Python 2 and 3 ` 📝 18 days ago `
 * [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/)   
   
-## Books
+## Websites [🔝](#readme)
 
   
-## Websites
-
-  
-* #### Tutorials
+* #### Tutorials [🔝](#readme)
 
     * [Ultimate Python study guide](https://github.com/huangsam/ultimate-python) ` 🔥 2.5k `  - Ultimate Python study guide for newcomers and professionals alike. ` 📝 13 days ago`
     * [Full Stack Python](https://www.fullstackpython.com/)   
@@ -1338,24 +1326,24 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
     * [Real Python](https://realpython.com)   
     * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)   
   
-* #### Libraries
+* #### Libraries [🔝](#readme)
 
     * [Awesome Python @LibHunt](https://python.libhunt.com/)   
   
-* #### Others
+* #### Others [🔝](#readme)
 
     * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) ` 🔥 22.8k ` ` 🌐 4 ` - What the f*ck Python? ` 📝 a month ago`
     * [Python ZEEF](https://python.zeef.com/alan.richmond)   
     * [Pythonic News](https://news.python.sc/)   
   
-## Newsletters
+## Newsletters [🔝](#readme)
 
 * [Awesome Python Newsletter](http://python.libhunt.com/newsletter)   
 * [Pycoder's Weekly](http://pycoders.com/)   
 * [Python Tricks](https://realpython.com/python-tricks/)   
 * [Python Weekly](http://www.pythonweekly.com/)   
   
-## Podcasts
+## Podcasts [🔝](#readme)
 
 * [Django Chat](https://djangochat.com/)   
 * [Podcast.\_\_init__](https://podcastinit.com/)   
