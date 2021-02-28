@@ -179,7 +179,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Admin Panels [🔝](#readme)
 
-* [ajenti](https://github.com/ajenti/ajenti) ` 🔥 6.3k `  - Ajenti Core and stock plugins ` 📝 5 days ago `
+* [ajenti](https://github.com/ajenti/ajenti) ` 🔥 6.3k `  - Ajenti Core and stock plugins ` 📝 6 days ago `
 * [django-grappelli](https://grappelliproject.com/)   
 * [django-jet](https://github.com/geex-arts/django-jet)   
 * [django-suit](https://djangosuit.com/)   
@@ -303,19 +303,19 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### Code Analysis [🔝](#readme)
 
-    * [pycallgraph](https://github.com/gak/pycallgraph) ` 🔥 1.5k ` ` 🌐 263 ` - pycallgraph is a Python module that creates call graphs for Python programs. ` 📝 3 years ago`
-    * [prospector](https://github.com/PyCQA/prospector) ` 🔥 1.4k ` ` 🌐 1.9k ` - Inspects Python source files and provides information about type and location of classes, methods etc ` 📝 4 months ago`
-    * [vulture](https://github.com/jendrikseipp/vulture) ` 🔥 1.2k ` ` 🌐 793 ` - Find dead Python code ` 📝 a month ago`
-    * [code2flow](https://github.com/scottrogowski/code2flow) ` 🔥 806 ` ` 🌐 4 ` - Turn your Python and Javascript code into DOT flowcharts ` 📝 4 years ago`
     * [coala](https://github.com/coala/coala/)   
+    * [code2flow](https://github.com/scottrogowski/code2flow)   
+    * [prospector](https://github.com/PyCQA/prospector)   
+    * [pycallgraph](https://github.com/gak/pycallgraph)   
+    * [vulture](https://github.com/jendrikseipp/vulture)   
   
 * #### Code Linters [🔝](#readme)
 
-    * [pylint](https://www.pylint.org/) ` 🔥 3.2k ` ` 🌐 178k ` - It's not just a linter that annoys you! ` 📝 3 days ago`
-    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ` 🔥 1.4k ` ` 🌐 244 ` - The strictest and most opinionated python linter ever! ` 📝 4 days ago`
-    * [flake8](https://pypi.org/project/flake8/) ` 🔥 1.1k ` ` 🌐 145k ` - The official GitHub mirror of https://gitlab.com/pycqa/flake8 ` 📝 2 months ago`
-    * [pylama](https://github.com/klen/pylama) ` 🔥 764 ` ` 🌐 2.1k ` - Code audit tool for python. ` 📝 2 years ago`
+    * [flake8](https://pypi.org/project/flake8/)   
     * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)   
+    * [pylama](https://github.com/klen/pylama)   
+    * [pylint](https://www.pylint.org/)   
+    * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)   
   
 * #### Code Formatters [🔝](#readme)
 
@@ -483,8 +483,8 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 * #### Other Relational Databases [🔝](#readme)
 
-    * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) ` 🔥 547 ` ` 🌐 208 ` - ClickHouse Python Driver with native interface support ` 📝 2 months ago`
     * [pymssql](https://pymssql.readthedocs.io/en/latest/)   
+    * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver)   
   
 * #### NoSQL Databases [🔝](#readme)
 
@@ -547,7 +547,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Deep Learning [🔝](#readme)
 
-* [caffe](https://github.com/BVLC/caffe) ` 🔥 31.4k `  - Caffe: a fast open framework for deep learning. ` 📝 a year ago `
+* [caffe](https://github.com/BVLC/caffe)   
 * [keras](https://github.com/keras-team/keras)   
 * [mxnet](https://github.com/dmlc/mxnet)   
 * [pytorch](https://github.com/pytorch/pytorch)   
