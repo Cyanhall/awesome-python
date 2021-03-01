@@ -179,7 +179,7 @@ Original Data from [Awesome Python](https://github.com/vinta/awesome-python/blob
   
 ## Admin Panels [🔝](#readme)
 
-* [ajenti](https://github.com/ajenti/ajenti) ` 🔥 6.3k `  - Ajenti Core and stock plugins ` 📝 6 days ago `
+* [ajenti](https://github.com/ajenti/ajenti)   
 * [django-grappelli](https://grappelliproject.com/)   
 * [django-jet](https://github.com/geex-arts/django-jet)   
 * [django-suit](https://djangosuit.com/)   
